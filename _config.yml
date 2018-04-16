@@ -53,7 +53,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "guanajuato_purple.png"
-heroTitle: "Guanahacks \nHecho para <typeout>"
+heroTitle: "Guanahacks. Hecho para <typeout>"
 eventDate: "Mayo 18-20, 2018"
 typeoutTextValues: '"", "creadores", "hackers", "activistas", "líderes"'
 typeoutFallback: ""
