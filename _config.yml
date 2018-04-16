@@ -70,9 +70,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "250", specialCharacter: "+", info: "estudiantes", detail: "del estado y la república"}
- - {count: "55", specialCharacter: "+", info: "horas", detail: "de actividades y desarollo"}
- - {count: "6", specialCharacter: "+", info: "talleres", detail: "de diversas áreas"}
+ - {count: "250", specialCharacter: "+", info: "Estudiantes", detail: "¡Del estado y de la república!"}
+ - {count: "55", specialCharacter: "+", info: "Horas", detail: "¡De actividades y desarollo!"}
+ - {count: "6", specialCharacter: "+", info: "Talleres", detail: "¡De diversas áreas!"}
 
 # Latest News Block
 latestNewsTitle: "'Ultimas noticias'"
@@ -85,28 +85,28 @@ rockstarSpeakersButtonText: "Ver todos los ponentes"
 
 # Location Block
 locationBlockTitle: "Ubicación"
-eventLocationName: "Auditorio General"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventLocationName: "Aulas Magnas, Campus Guanajuato, Universidad de Guanajuato"
+eventLocationLink: "http://www.ugto.mx/campusgto/"
 eventStreetAddress: "El Establo, Marfil"
 eventAddressLocality: "Guanajuato"
 eventAddressLocalityRegion: "Gto."
 eventPostalCode: "36000"
 eventAddressCountry: "México"
-eventStartTime: "2018-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "21.002949, -101.271275"
-mapCenterCoordinates: "21.002949, -101.271275"
-mapMobileCenterCoordinates: "21.002949, -101.271275"
+eventStartTime: "2018-05-18T12:00"
+eventDoorTime: "10:00"
+eventEndTime: "2018-05-20T14:00"
+eventPlaceCoordinates: "21.012597, -101.275503"
+mapCenterCoordinates: "21.012597, -101.275503"
+mapMobileCenterCoordinates: "21.012597, -101.275503"
 
 # Venue Block
-venueBlockTitle: "Lugar"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+# venueBlockTitle: "Lugar"
+# venueBigImage: "venue_0.jpg"
+# venueSmallImage1: "venue_1.jpg"
+# venueSmallImage2: "venue_2.jpg"
+# venueSmallImage3: "venue_3.jpg"
+# venueTitle: "Kinopalace Cinema"
+# venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
