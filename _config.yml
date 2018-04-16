@@ -53,19 +53,21 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "guanajuato_purple.png"
-heroTitle: "Guanahacks. Hecho para <typeout>"
+heroTitle: "GuanaHacks. Hecho para <typeout>"
 eventDate: "Mayo 18-20, 2018"
-typeoutTextValues: '"", "creadores", "hackers", "activistas", "líderes"'
+typeoutTextValues: '"", "creadores.", "hackers.", "líderes."'
 typeoutFallback: ""
 heroButtons:
  - {permalink: "/#registro", text: "¡Regístrate individual o en equipo!"}
 
+
 # About Block
 aboutTitle: "Acerca de GuanaHacks"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conferencias", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Talleres", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Hackeo continuo", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -74,14 +76,17 @@ statisticBlock:
  - {count: "55", specialCharacter: "+", info: "Horas", detail: "¡De actividades y desarollo!"}
  - {count: "6", specialCharacter: "+", info: "Talleres", detail: "¡De diversas áreas!"}
 
+
 # Latest News Block
 latestNewsTitle: "'Ultimas noticias'"
+
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Invitados Superestrellas"
 rockstarSpeakersButtonText: "Ver todos los ponentes"
+
 
 # Location Block
 locationBlockTitle: "Ubicación"
@@ -99,6 +104,7 @@ eventPlaceCoordinates: "21.012597, -101.275503"
 mapCenterCoordinates: "21.012597, -101.275503"
 mapMobileCenterCoordinates: "21.012597, -101.275503"
 
+
 # Venue Block
 # venueBlockTitle: "Lugar"
 # venueBigImage: "venue_0.jpg"
@@ -108,22 +114,26 @@ mapMobileCenterCoordinates: "21.012597, -101.275503"
 # venueTitle: "Kinopalace Cinema"
 # venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
+
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Wanna hack?"
 twitterHashTag: "GuanaHacks"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
+
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
+
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+
 
 # Footer
 socialLinks:
