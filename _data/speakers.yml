@@ -2,7 +2,7 @@
   id: 1
   name: "Rodolfo"
   surname: "Ferro"
-  ompany: "Future Lab"
+  company: "GitHub Campus Expert"
   title: "Estudiante de Matematicas Tech lead  GitHub Campus Expert"
   bio: 'You may call me Rod'
   thumbnailUrl: RodolfoFerro.jpg
@@ -24,8 +24,8 @@
     - {name: "site", link: "https://www.linkedin.com/in/ricardomiron/"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/ricardomiron"}
- -
-#   id: 3
+# -
+#  id: 3
 #   name: "Omar"
 #   surname: "Purata"
 #   company: "Universidad de Guanajuato"
