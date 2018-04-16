@@ -11,8 +11,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GuanaHacks 2018"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+email: "kaizen.ugto@gmail.com"
+description: "GuanaHacks - hackathon estudiantil en la Universidad de Guanajuato"
 baseurl: "/GuanaHacks"
 url: "https://futurelabmx.github.io"
 permalink: "/blog/:title"
@@ -21,15 +21,15 @@ permalink: "/blog/:title"
 # siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
+organizerName: "Future Lab"
 organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerDescription: "Laboratorio Estudiantil de Innovación Científica y Tecnológica de la Universidad de Guanajuato."
+organizerEmail: "r.mirontorres@ugto.mx"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "www.facebook.com/f.lab.mx"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, mlh, devfest, hackathon, programming, guanajuato, hack, guanahacks, ugto, future lab, kaizen ug"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -52,13 +52,13 @@ rightNavigationButtons:
 
 
 # Hero Block
-heroImage: "guanajuato_purple.png"
+heroImage: "guanahacks-image.png"
 heroTitle: "Guanahacks. Hecho para <typeout>"
-eventDate: "Mayo 18-20, 2018"
+eventDate: "18-20 Mayo, 2018"
 typeoutTextValues: '"", "creadores", "hackers", "activistas", "líderes"'
 typeoutFallback: ""
 heroButtons:
- - {permalink: "/#registro", text: "¡Regístrate individual o en equipo!"}
+ - {permalink: "/#registro", text: "¡Regístrate!"}
 
 # About Block
 aboutTitle: "Acerca de GuanaHacks"
@@ -75,12 +75,12 @@ statisticBlock:
  - {count: "6", specialCharacter: "+", info: "Talleres", detail: "¡De diversas áreas!"}
 
 # Latest News Block
-latestNewsTitle: "'Ultimas noticias'"
+latestNewsTitle: "Ultimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Invitados Superestrellas"
+rockstarSpeakersTitle: "Invitados Especiales"
 rockstarSpeakersButtonText: "Ver todos los ponentes"
 
 # Location Block
@@ -115,19 +115,18 @@ twitterHashTag: "GuanaHacks"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Powered by"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Conviértete en sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
+subscribeTitle: "Subscríbete para estar actualizado"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "El pre-registro de encuentra abierto. ¡El número de entradas son límitadas, así que regístrate!"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
  - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
@@ -135,19 +134,19 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://www.facebook.com/f.lab.mx", text: "Future Lab"}
+   - {link: "https://www.facebook.com/f.lab.mx", text: "Kaizen UG"}
  -
-  title: "Contacts"
+  title: "Contacto"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:kaizen.ugto@gmail.com", text: "kaizen.ugto@gmail.com"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "https://github.com/futurelabmx/GuanaHacks/blob/master/CodigoDeConducta.md", text: "Código de Conducta"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Últimas noticias"
 blogCommentsEnabled: true
 discusShortName: "devfestua"
 
@@ -155,8 +154,9 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+teamBlockTitle: "Acerca de nosotros"
+aboutUs: "Entusiastas por el desarrollo de los jóvenes, el emprendimiento y la innovación, el quipo organizador de GuanaHacks 2018
+se conforma por estudiantes de la Universidad de Guanajuato. Representado a 2 grupos organizados de la misma: Future Lab y Kaizen UG."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
