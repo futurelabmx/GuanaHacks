@@ -29,8 +29,8 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "www.facebook.com/f.lab.mx"
 
 # Head
-metaKeywords: "event, mlh, devfest, hackathon, programming, guanajuato, hack, guanahacks, ugto, future lab, kaizen ug"
-twitterAccount: "@DevFest"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+twitterAccount: "@FerroRodolfo"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -44,45 +44,50 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Inicio"}
  - {permalink: "/programa/", text: "Programa"}
- - {permalink: "/speakers/", text: "Ponentes"}
- - {permalink: "/team/", text: "Equipo"}
- - {permalink: "/equipo/", text: "Hackathon"}
+ # - {permalink: "/ponentes/", text: "Ponentes"}
+ # - {permalink: "/equipo/", text: "Equipo"}
 bottomNavigationLinks:
 
 rightNavigationButtons:
 
 
 # Hero Block
-heroImage: "guanahacks-bg.png"
-heroTitle: "Guanahacks. Hecho para <typeout>"
-eventDate: "18-20 Mayo, 2018"
-typeoutTextValues: '"", "creadores", "hackers", "activistas", "líderes"'
+# heroImage: "guanajuato_purple.png"
+heroImage: "hero.jpg"
+heroTitle: "GuanaHacks. Hecho para <typeout>"
+eventDate: "Mayo 18-20, 2018"
+typeoutTextValues: '"", "creadores.", "hackers.", "líderes.", "ti."'
 typeoutFallback: ""
 heroButtons:
  - {permalink: "/#registro", text: "Regístrate"}
 
+
 # About Block
 aboutTitle: "Acerca de GuanaHacks"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conferencias", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Talleres", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Hackeo continuo", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "250", specialCharacter: "+", info: "Estudiantes", detail: "¡Del estado y de la república!"}
  - {count: "55", specialCharacter: "+", info: "Horas", detail: "¡De actividades y desarollo!"}
- - {count: "6", specialCharacter: "+", info: "Talleres", detail: "¡De diversas áreas!"}
+ - {count: "6", specialCharacter: "+", info: "Talleres", detail: "¡De diversos temas y áreas!"}
+
 
 # Latest News Block
 latestNewsTitle: "Ultimas noticias"
+
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Invitados Especiales"
 rockstarSpeakersButtonText: "Ver todos los ponentes"
+
 
 # Location Block
 locationBlockTitle: "Ubicación"
@@ -100,6 +105,7 @@ eventPlaceCoordinates: "21.012597, -101.275503"
 mapCenterCoordinates: "21.012597, -101.275503"
 mapMobileCenterCoordinates: "21.012597, -101.275503"
 
+
 # Venue Block
 # venueBlockTitle: "Lugar"
 # venueBigImage: "venue_0.jpg"
@@ -109,22 +115,26 @@ mapMobileCenterCoordinates: "21.012597, -101.275503"
 # venueTitle: "Kinopalace Cinema"
 # venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
+
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Wanna hack?"
 twitterHashTag: "GuanaHacks"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
+
 # Partners Block
 organizersTitle: "Powered by"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Conviértete en sponsor"
 
+
 # Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscríbete para estar actualizado"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "El pre-registro de encuentra abierto. ¡El número de entradas son límitadas, así que regístrate!"
+# subscribeImage: "subscribe.jpg"
+# subscribeTitle: "Subscribe for updates"
+# subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+# subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+
 
 # Footer
 socialLinks:
@@ -135,12 +145,12 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://www.facebook.com/f.lab.mx", text: "Future Lab"}
-   - {link: "https://www.facebook.com/f.lab.mx", text: "Kaizen UG"}
+   - {link: "http://www.ugto.mx/", text: "Universidad de Guanajuato"}
+   - {link: "http://www.ugto.mx/", text: "Universidad de Guanajuato"}
  -
   title: "Contacto"
   links:
-   - {link: "mailto:kaizen.ugto@gmail.com", text: "kaizen.ugto@gmail.com"}
+   - {link: "mailto:ferro@cimat.mx", text: "ferro@cimat.mx"}
  -
   title: "FAQ"
   links:
@@ -149,7 +159,7 @@ footerBlocks:
 # Blog
 blogTitle: "Últimas noticias"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+# discusShortName: "devfestua"  # HERE
 
 # Speakers List Block
 showSessions: true
@@ -158,51 +168,6 @@ showSessions: true
 teamBlockTitle: "Acerca de nosotros"
 aboutUs: "Entusiastas por el desarrollo de los jóvenes, el emprendimiento y la innovación, el quipo organizador de GuanaHacks 2018
 se conforma por estudiantes de la Universidad de Guanajuato. Representado a 2 grupos organizados de la misma: Future Lab y Kaizen UG."
-
-# Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
-logisticsMapAutoDirections: false
-
-# Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
-directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
-directionDetailsWideCards:
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # Hackathon
 hackathonTitle: "GuanaHacks"
@@ -240,6 +205,6 @@ hackathonStartTime: "2014-10-24T10:00"
 hackathonDoorTime: "09:00"
 hackathonEndTime: "2014-10-25T00:00"
 viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+hackathonPlaceCoordinates: "21.012597, -101.275503"
+hackathonMapCenterCoordinates: "21.012597, -101.275503"
+hackathonMapMobileCenterCoordinates: "21.012597, -101.275503"
