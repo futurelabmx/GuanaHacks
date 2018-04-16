@@ -53,15 +53,15 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "guanajuato_purple.png"
-heroTitle: "Guanahacks. Hecho para <typeout>"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "creadores", "hackers", "activistas", "lideres"'
+heroTitle: "Guanahacks. Hecho para <typeout>."
+eventDate: "Mayo 18-20, 2018"
+typeoutTextValues: '"", "creadores", "hackers", "activistas", "líderes"'
 typeoutFallback: ""
 heroButtons:
- - {permalink: "/#registro", text: "Registra a tu Equipo"}
+ - {permalink: "/#registro", text: "¡Regístrate individual o en equipo!"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "Acerca de GuanaHacks"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -70,12 +70,12 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "300", specialCharacter: "+", info: "alumnos", detail: "de todos lados"}
- - {count: "55", specialCharacter: "+", info: "horas", detail: "de desarollo"}
- - {count: "6", specialCharacter: "+", info: "talleres", detail: "from country and beyond"}
+ - {count: "200", specialCharacter: "+", info: "alumnos", detail: "del estado y la república"}
+ - {count: "55", specialCharacter: "+", info: "horas", detail: "de actividades y desarollo"}
+ - {count: "6", specialCharacter: "+", info: "talleres", detail: "de diversas áreas"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "'Ultimas noticias'"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -110,8 +110,8 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+tweetsFeedTitle: "Wanna hack?"
+twitterHashTag: "GuanaHacks"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
