@@ -22,7 +22,7 @@ permalink: "/blog/:title"
 
 # Organizer Info
 organizerName: "Future Lab"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerAlternateName: "Future Lab"
 organizerDescription: "Laboratorio Estudiantil de Innovación Científica y Tecnológica de la Universidad de Guanajuato."
 organizerEmail: "r.mirontorres@ugto.mx"
 organizerLogo: "/img/seo/organizer-logo.png"
