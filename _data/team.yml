@@ -1,60 +1,65 @@
-- 
+-
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Ricardo"
+  surname: "Mirón"
+  title: "Director - Future Lab"
+  thumbnailUrl: RicardoMiron2.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
+  social:
+    - {name: "twitter", link: "https://twitter.com/richard016"}
+    - {name: "github", link: "https://github.com/ricardomiron"}
+    - {name: "site", link: "https://www.linkedin.com/in/ricardomiron/"}
+-
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Rodolfo"
+  surname: "Ferro"
+  title: "Coord. de Tecnología - Future Lab"
+  thumbnailUrl: RodolfoFerro.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
+  social:
+    - {name: "twitter", link: "https://twitter.com/FerroRodolfo"}
+    - {name: "github", link: "https://github.com/RodolfoFerro"}
+    - {name: "site", link: "https://www.linkedin.com/in/rodolfoferro/"}
+-
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Miguel"
+  surname: "Cuevas"
+  title: "Coord. Marketing - Future Lab"
+  thumbnailUrl: MiguelCuevas.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
+  social:
+    - {name: "site", link: "#"}
+-
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Isabel"
+  surname: "Arroyo"
+  title: "Presidenta - Kaizen UG"
+  thumbnailUrl: IsabelAroyo.jpg
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/pg/KaizenUG/"}
+-
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Victor"
+  surname: "Guerrero"
+  title: "Vicepresidente - Kaizen UG"
+  thumbnailUrl: VictorGuerrero.jpg
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/pg/KaizenUG/"}
+    - {name: "twitter", link: "https://twitter.com/VicDeKaizen"}
+-
+  id: 8
+  name: "Raymundo"
+  surname: "Díaz"
+  title: "Vicepresidente - Kaizen UG"
+  thumbnailUrl: RaymundoDiaz.jpg
+  subTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/pg/KaizenUG/"}
