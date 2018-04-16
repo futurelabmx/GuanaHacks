@@ -44,21 +44,22 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Inicio"}
  - {permalink: "/programa/", text: "Programa"}
- - {permalink: "/ponentes/", text: "Ponentes"}
- - {permalink: "/equipo/", text: "Equipo"}
+ - {permalink: "/speakers/", text: "Ponentes"}
+ - {permalink: "/team/", text: "Equipo"}
+ - {permalink: "/equipo/", text: "Hackathon"}
 bottomNavigationLinks:
 
 rightNavigationButtons:
 
 
 # Hero Block
-heroImage: "guanahacks-image.png"
+heroImage: "guanahacks-bg.png"
 heroTitle: "Guanahacks. Hecho para <typeout>"
 eventDate: "18-20 Mayo, 2018"
 typeoutTextValues: '"", "creadores", "hackers", "activistas", "líderes"'
 typeoutFallback: ""
 heroButtons:
- - {permalink: "/#registro", text: "¡Regístrate!"}
+ - {permalink: "/#registro", text: "Regístrate"}
 
 # About Block
 aboutTitle: "Acerca de GuanaHacks"
