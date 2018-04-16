@@ -1,11 +1,11 @@
 -
   group: "Organizadores"
   elements:
-    - {name: "Dirección de Desarrollo Estudiantil", description: "Dirección de Desarrollo Estudiantil - Universidad de Guanajuato", link: "https://www.facebook.com/desarrolloestudiantilUGTO/", imageUrl: "desarrolloestudiantil.png" width: "120px"}
-    - {name: "Future Lab", description: "Future Lab - laboratorio de innovación tecnológica", link: "https://www.facebook.com/f.lab.mx", imageUrl: "futurelab.png" width: "120px"}
-    - {name: "Kaizen UG", description: "Kaizen UG - hoy mejor que ayer, mañana mejor que hoy", link: "https://www.facebook.com/KaizenUG/", imageUrl: "kaizen.png" width: "120px"}
+    - {name: "Dirección de Desarrollo Estudiantil", description: "Dirección de Desarrollo Estudiantil - Universidad de Guanajuato", link: "https://www.facebook.com/desarrolloestudiantilUGTO/", imageUrl: "desarrolloestudiantil.png", width: "120px"}
+    - {name: "Future Lab", description: "Future Lab - laboratorio de innovación tecnológica", link: "https://www.facebook.com/f.lab.mx", imageUrl: "futurelab.png", width: "120px"}
+    - {name: "Kaizen UG", description: "Kaizen UG - hoy mejor que ayer, mañana mejor que hoy", link: "https://www.facebook.com/KaizenUG/", imageUrl: "kaizen.png", width: "120px"}
 -
   group: "Aliados"
   elements:
-    - {name: "GitHub Education", description: "GitHub Education - teach and learn better, together", link: "https://education.github.com/", imageUrl: "github.png" width: "120px"}
-    - {name: "Aska México", description: "Aska México - sistema emprendedor", link: "https://askha.org.mx/", imageUrl: "askha.png" width: "120px"}
+    - {name: "GitHub Education", description: "GitHub Education - teach and learn better, together", link: "https://education.github.com/", imageUrl: "github.png", width: "120px"}
+    - {name: "Aska México", description: "Aska México - sistema emprendedor", link: "https://askha.org.mx/", imageUrl: "askha.png", width: "120px"}
