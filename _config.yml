@@ -59,7 +59,7 @@ eventDate: "18-20 Mayo, 2018"
 typeoutTextValues: '"", "creadores.", "hackers.", "líderes.", "ti."'
 typeoutFallback: ""
 heroButtons:
- - {permalink: "https://goo.gl/forms/go3O5F7YXHlWdnkj2", text: "Regístrate"}
+ - {permalink: "/registro", text: "Regístrate"}
 
 
 # About Block
