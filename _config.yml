@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "GuanaHacks 2018"
 email: "kaizen.ugto@gmail.com"
-description: "GuanaHacks - hackathon estudiantil en la Universidad de Guanajuato"
+description: "GuanaHacks - Hackatón estudiantil de la Universidad de Guanajuato."
 baseurl: "/GuanaHacks"
 url: "https://futurelabmx.github.io"
 permalink: "/blog/:title"
@@ -59,7 +59,7 @@ eventDate: "18-20 Mayo, 2018"
 typeoutTextValues: '"", "creadores.", "hackers.", "líderes.", "ti."'
 typeoutFallback: ""
 heroButtons:
- - {permalink: "/#registro", text: "Regístrate"}
+ - {permalink: "https://goo.gl/forms/go3O5F7YXHlWdnkj2", text: "Regístrate"}
 
 
 # About Block
