@@ -154,7 +154,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {link: "https://github.com/futurelabmx/GuanaHacks/blob/master/CodigoDeConducta.md", text: "Código de Conducta"}
+   - {link: "https://futurelabmx.github.io/GuanaHacks/conducta/", text: "Código de Conducta"}
 
 # Blog
 blogTitle: "Últimas noticias"
