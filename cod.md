@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Código de Conducta
+title: Código de Conducta GuanaHacks 2018
 permalink: /conducta/
 isStaticPost: true
 ---
 
-# Código de conducta de GuanaHacks 2018
 
-## Universidad de Guanajuato (UG)
-### Reglas:
+### Universidad de Guanajuato (UG)
+#### Reglas:
 
 * Mantener el espacio limpio y depositar la basura en su lugar.
 * Apagar la luz eléctrica cuando se desocupen los espacios.
@@ -26,7 +25,7 @@ isStaticPost: true
 ## Major League Hacking (MLH)
 ### Reglas:
 
-*TL; DR.* Se respetuoso. El acoso y el abuso nunca son tolerados. Si se encuentra en una situación que lo incomoda en un evento de MLH sancionado oficialmente, si el evento en sí crea un entorno inseguro o inapropiado, o si interactuar con un representante de MLH o un organizador del evento lo hace sentir incómodo, infórmelo usando los procedimientos incluidos. en este documento.
+*TL; DR.* Sé respetuoso. El acoso y el abuso nunca son tolerados. Si se encuentra en una situación que lo incomoda en un evento de MLH sancionado oficialmente, si el evento en sí crea un entorno inseguro o inapropiado, o si interactuar con un representante de MLH o un organizador del evento lo hace sentir incómodo, infórmelo usando los procedimientos incluidos. en este documento.
 
 Major League Hacking es sinónimo de inclusividad. Creemos que cada persona tiene derecho a hackear en un entorno seguro y acogedor.
 
