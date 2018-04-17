@@ -149,7 +149,8 @@ footerBlocks:
  -
   title: "Contacto"
   links:
-   - {link: "mailto:kaizen.ugto@gmail.com", text: "kaizen.ugto@gmail.com"}
+   - {link: "mailto:r.mirontorres@ugto.mx", text: "Future Lab"}
+   - {link: "mailto:kaizen.ugto@gmail.com", text: "Kaizen UG"}
  -
   title: "FAQ"
   links:
