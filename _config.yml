@@ -94,10 +94,10 @@ rockstarSpeakersButtonText: "Ver todos los ponentes"
 
 # Location Block
 locationBlockTitle: "Ubicación"
-eventLocationName: "Aulas Magnas, Campus Guanajuato, Universidad de Guanajuato"
+eventLocationName: "Aulas Magnas, Campus Guanajuato, Universidad de Guanajuato."
 eventLocationLink: "http://www.ugto.mx/campusgto/"
-eventStreetAddress: "El Establo, Marfil"
-eventAddressLocality: "Guanajuato"
+eventStreetAddress: "El Establo, Marfil."
+eventAddressLocality: "Guanajuato."
 eventAddressLocalityRegion: "Gto."
 eventPostalCode: "36000"
 eventAddressCountry: "México"
@@ -139,8 +139,8 @@ partnersC4sponsorsButton: "Conviértete en sponsor"
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/search?q=%23GuanaHacks", icon: "twitter"}
+ - {link: "https://facebook.com/f.lab.mx", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -157,7 +157,9 @@ footerBlocks:
  -
   title: "FAQ"
   links:
+   - {link: "https://futurelabmx.github.io/GuanaHacks/programa/", text: "Programa del evento"}
    - {link: "https://futurelabmx.github.io/GuanaHacks/conducta/", text: "Código de Conducta"}
+   - {link: "https://futurelabmx.github.io/GuanaHacks/recomendaciones/", text: "Consideraciones y recomendaciones"}
 
 # Blog
 blogTitle: "Últimas noticias"
