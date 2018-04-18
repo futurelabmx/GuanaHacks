@@ -2,7 +2,7 @@
 layout: post
 title: Registro GuanaHacks 2018
 permalink: /registro/
-image: subscribe.jpg
+image: edificio-central.png
 isStaticPost: true
 ---
 
