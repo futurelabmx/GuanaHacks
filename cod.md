@@ -2,7 +2,7 @@
 layout: post
 title: Código de Conducta GuanaHacks 2018
 permalink: /conducta/
-image: cod.jpg
+image: blog.jpg
 isStaticPost: true
 ---
 
