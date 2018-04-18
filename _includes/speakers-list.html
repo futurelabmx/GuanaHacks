@@ -30,27 +30,27 @@
                         <div class="lily-bottom">
                             <ul class="slider">
                                 {% assign sessionsNumber = 0 %}
-                                {% if site.showSessions %} 
-                                    {% for session in site.data.sessions %} 
-                                        {% for session_speaker in session.speakers %} 
+                                {% if site.showSessions %}
+                                    {% for session in site.data.sessions %}
+                                        {% for session_speaker in session.speakers %}
                                             {% if session_speaker == speaker.id %}
                                             {% assign sessionsNumber = sessionsNumber | plus: 1 %}
                                                 <li class="title slider-item animated fadeInRight hidden">{{ session.title }}</li>
-                                            {% endif %} 
-                                        {% endfor %} 
-                                    {% endfor %} 
+                                            {% endif %}
+                                        {% endfor %}
+                                    {% endfor %}
                                 {% else %}
                                     <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
                                     <p class="position">{{ speaker.company }}</p>
                                 {% endif %}
                             </ul>
-                            <a href="#" class="slider-next-item {% if sessionsNumber < 2 %}hidden{% endif %}">Next</a>
+                            <a href="#" class="slider-next-item {% if sessionsNumber < 2 %}hidden{% endif %}">Siguiente</a>
                         </div>
                     </div>
                 </div>
                 {% endfor %}
-            </div> 
-            <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>     
+            </div>
+            <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Conviértete en ponenete</a>
         </div>
     </div>
 </section>
