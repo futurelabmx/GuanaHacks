@@ -53,7 +53,7 @@ rightNavigationButtons:
 
 
 # Hero Block
-heroImage: "guanahacks-bg.png"
+heroImage: "hero.jpg"
 heroTitle: "GuanaHacks. Hecho para <typeout>"
 eventDate: "18-20 Mayo, 2018"
 typeoutTextValues: '"", "creadores.", "hackers.", "líderes.", "ti."'
