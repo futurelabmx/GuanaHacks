@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Inicio"}
  - {permalink: "/programa/", text: "Programa"}
  # - {permalink: "/speakers/", text: "Ponentes"}
- # - {permalink: "/team/", text: "Equipo"}
+ - {permalink: "/team/", text: "Equipo"}
  # - {permalink: "/equipo/", text: "Hackathon"}
 bottomNavigationLinks:
   - {permalink: "/registro", text: "Regístrate"}
