@@ -2,7 +2,7 @@
 layout: post
 title:  "Consideraciones y recomendaciones"
 date:   2018-04-16 08:00:00
-image:  blog.jpg
+image:  pipila.png
 permalink: /recomendaciones/
 isStaticPost: false
 ---
