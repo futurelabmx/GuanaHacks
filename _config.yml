@@ -44,9 +44,9 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Inicio"}
  - {permalink: "/programa/", text: "Programa"}
- - {permalink: "/speakers/", text: "Ponentes"}
- - {permalink: "/team/", text: "Equipo"}
- - {permalink: "/equipo/", text: "Hackathon"}
+ # - {permalink: "/speakers/", text: "Ponentes"}
+ # - {permalink: "/team/", text: "Equipo"}
+ # - {permalink: "/equipo/", text: "Hackathon"}
 bottomNavigationLinks:
 
 rightNavigationButtons:
