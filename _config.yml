@@ -67,9 +67,8 @@ heroButtons:
 # About Block
 aboutTitle: "Acerca de GuanaHacks"
 aboutBlock:
- - {title: "Conferencias", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Talleres", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- # - {title: "Hackeo continuo", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conferencias", image: "conference.JPG", text: "Líderes de la industria local compartirán su experiencia. Las nuevas tecnologías y su utilización para soluciones ingeniosas." }
+ - {title: "Talleres", image: "workshop.JPG", text: "Aprende a desarrollar tu idea, desde el prototipo a un modelo de negocios. Impartidos por expertos en el tema, de diseño, negocios y técnicos." }
 
 
 # Statistic Block
@@ -77,8 +76,8 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "250", specialCharacter: "+", info: "Estudiantes", detail: "¡Del estado y de la república!"}
  - {count: "55", specialCharacter: "+", info: "Horas", detail: "¡De actividades y desarollo!"}
- - {count: "6", specialCharacter: "+", info: "Talleres", detail: "¡De diversos temas y áreas!"}
- - {count: "6", specialCharacter: "+", info: "Talleres", detail: "¡De diversos temas y áreas!"}
+ - {count: "6", specialCharacter: "+", info: "Talleres y conferencias", detail: "¡De diversos temas y áreas!"}
+ - {count: "10", specialCharacter: "+", info: "Mentores", detail: "¡Experto en área!"}
 
 
 # Latest News Block

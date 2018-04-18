@@ -9,12 +9,12 @@
                         <a href="{{ site.baseurl | append: post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
                         <div class="post-header">
                             <div class="published col-md-6 col-xs-6 pull-left">
-                                <span class="caption">Posted:</span>
+                                <span class="caption">Publicado:</span>
                                 <span class="publish-date" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</span>
                             </div>
                             <div class="share col-md-6 col-xs-6 pull-right">
                                 <ul class="social-links">
-                                    {% assign postUrl = site.url | append: site.baseurl | append: post.url %} 
+                                    {% assign postUrl = site.url | append: site.baseurl | append: post.url %}
                                     <li>
                                         <a href="#" onclick="window.open('https://plus.google.com/share?url={{ postUrl }}', 'newwindow', 'width=600, height=500'); return false;">
                                             <svg class="icon icon-google-plus" viewBox="0 0 30 32">
@@ -41,7 +41,7 @@
                         </div>
                         <p class="post-body">{{ post.content | strip_html | truncate: 350 }} <a href="{{ site.baseurl | append: post.url }}">continue reading</a></p>
                     </article>
-                {% endfor %} 
+                {% endfor %}
 
                 {% if paginator.total_pages > 1 %}
                 <div class="row">
@@ -49,20 +49,20 @@
                         {% if paginator.previous_page %}
                         <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
                         {% else %}
-                        <span class="previous">Previous</span>
+                        <span class="previous">Anterior</span>
                         {% endif %}
                         <span class="page-number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
                         {% if paginator.next_page %}
                         <a href="/page{{ paginator.next_page }}" class="next">Next</a>
                         {% else %}
-                        <span class="next ">Next</span>
+                        <span class="next ">Siguiente</span>
                         {% endif %}
                     </div>
                 </div>
                 {% endif %}
 
                 <div class="row text-center">
-                    <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a>
+                    <p class="rss-subscribe">Suscribirse <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a>
                     </p>
                 </div>
 
