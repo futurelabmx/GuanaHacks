@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "GuanaHacks 2018"
 email: "kaizen.ugto@gmail.com"
-description: "GuanaHacks - hackathon estudiantil en la Universidad de Guanajuato"
+description: "GuanaHacks - Hackatón estudiantil de la Universidad de Guanajuato."
 baseurl: "/GuanaHacks"
 url: "https://futurelabmx.github.io"
 permalink: "/blog/:title"
@@ -22,15 +22,15 @@ permalink: "/blog/:title"
 
 # Organizer Info
 organizerName: "Future Lab"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerAlternateName: "Future Lab"
 organizerDescription: "Laboratorio Estudiantil de Innovación Científica y Tecnológica de la Universidad de Guanajuato."
 organizerEmail: "r.mirontorres@ugto.mx"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "www.facebook.com/f.lab.mx"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@FerroRodolfo"
+metaKeywords: "event, mlh, devfest, hackathon, programming, guanajuato, hack, guanahacks, ugto, future lab, kaizen ug"
+twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -44,22 +44,22 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Inicio"}
  - {permalink: "/programa/", text: "Programa"}
- # - {permalink: "/ponentes/", text: "Ponentes"}
- # - {permalink: "/equipo/", text: "Equipo"}
+ - {permalink: "/speakers/", text: "Ponentes"}
+ - {permalink: "/team/", text: "Equipo"}
+ - {permalink: "/equipo/", text: "Hackathon"}
 bottomNavigationLinks:
 
 rightNavigationButtons:
 
 
 # Hero Block
-# heroImage: "guanajuato_purple.png"
-heroImage: "hero.jpg"
+heroImage: "guanahacks-bg.png"
 heroTitle: "GuanaHacks. Hecho para <typeout>"
-eventDate: "Mayo 18-20, 2018"
+eventDate: "18-20 Mayo, 2018"
 typeoutTextValues: '"", "creadores.", "hackers.", "líderes.", "ti."'
 typeoutFallback: ""
 heroButtons:
- - {permalink: "/#registro", text: "Regístrate"}
+ - {permalink: "/registro", text: "Regístrate"}
 
 
 # About Block
@@ -128,13 +128,11 @@ organizersTitle: "Powered by"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Conviértete en sponsor"
 
-
 # Subscribe Block
 # subscribeImage: "subscribe.jpg"
 # subscribeTitle: "Subscribe for updates"
 # subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 # subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
-
 
 # Footer
 socialLinks:
@@ -146,15 +144,17 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://www.ugto.mx/", text: "Universidad de Guanajuato"}
-   - {link: "http://www.ugto.mx/", text: "Universidad de Guanajuato"}
+   - {link: "http://www.facebook.com/f.lab.mx", text: "Future Lab"}
+   - {link: "https://www.facebook.com/f.lab.mx", text: "Kaizen UG"}
  -
   title: "Contacto"
   links:
-   - {link: "mailto:ferro@cimat.mx", text: "ferro@cimat.mx"}
+   - {link: "mailto:r.mirontorres@ugto.mx", text: "Future Lab"}
+   - {link: "mailto:kaizen.ugto@gmail.com", text: "Kaizen UG"}
  -
   title: "FAQ"
   links:
-   - {link: "https://github.com/futurelabmx/GuanaHacks/blob/master/CodigoDeConducta.md", text: "Código de Conducta"}
+   - {link: "https://futurelabmx.github.io/GuanaHacks/conducta/", text: "Código de Conducta"}
 
 # Blog
 blogTitle: "Últimas noticias"
