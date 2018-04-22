@@ -1,0 +1,65 @@
+-
+  id: 0
+  name: "Ricardo"
+  surname: "Mirón"
+  title: "Director - Future Lab"
+  thumbnailUrl: RicardoMiron2.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/richard016"}
+    - {name: "github", link: "https://github.com/ricardomiron"}
+    - {name: "site", link: "https://www.linkedin.com/in/ricardomiron/"}
+-
+  id: 1
+  name: "Rodolfo"
+  surname: "Ferro"
+  title: "Coord. de Tecnología - Future Lab"
+  thumbnailUrl: RodolfoFerro.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/FerroRodolfo"}
+    - {name: "github", link: "https://github.com/RodolfoFerro"}
+    - {name: "site", link: "https://www.linkedin.com/in/rodolfoferro/"}
+-
+  id: 2
+  name: "Miguel"
+  surname: "Cuevas"
+  title: "Coord. Marketing - Future Lab"
+  thumbnailUrl: MiguelCuevas.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "site", link: "#"}
+-
+  id: 4
+  name: "Isabel"
+  surname: "Arroyo"
+  title: "Presidenta - Kaizen UG"
+  thumbnailUrl: IsabelAroyo.jpg
+  subTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/pg/KaizenUG/"}
+-
+  id: 7
+  name: "Victor"
+  surname: "Guerrero"
+  title: "Vicepresidente - Kaizen UG"
+  thumbnailUrl: VictorGuerrero.jpg
+  subTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/pg/KaizenUG/"}
+    - {name: "twitter", link: "https://twitter.com/VicDeKaizen"}
+-
+  id: 8
+  name: "Raymundo"
+  surname: "Díaz"
+  title: "Vicepresidente - Kaizen UG"
+  thumbnailUrl: RaymundoDiaz.jpg
+  subTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/pg/KaizenUG/"}

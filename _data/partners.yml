@@ -1,0 +1,10 @@
+-
+  group: "Sponsors"
+  elements:
+    - {name: "GameCoder Studios", description: "GameCoder Studios - Video Games, VR & Solutions", link: "http://www.attractio-game.com/", imageUrl: "gamecoder.png", width: "120px"}
+    - {name: "SIPP Consourcing", description: "SIPP Consourcing - Servicios integrales para PyMES", link: "https://www.facebook.com/SIPPCon/", imageUrl: "sipp.jpg", width: "120px"}
+    - {name: "The 3D monkey", description: "The 3D monkey - 3D Printing made easy", link: "https://www.facebook.com/the3dmonkey/", imageUrl: "3dmonkey.png", width: "120px"}
+-
+  group: "Agradecimientos"
+  elements:
+    - {name: "Juventud Guanajuato Capital", description: "Juventud Guanajuato Capital", link: "https://www.facebook.com/juventud.guanajuato.capital/", imageUrl: "juventud.png", width: "120px"}
