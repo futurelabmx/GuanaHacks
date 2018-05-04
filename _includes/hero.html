@@ -1,4 +1,20 @@
 <!-- Begin Hero Section -->
+<style>
+div.transbox {
+  margin: 20px auto;
+  width: 250px;
+  display: block;
+  padding: 15px 0px 1px 0px;
+  background-color: #f1f1f1;
+  opacity: 0.80;
+  filter: alpha(opacity=80); /* For IE8 and earlier */
+}
+
+div.transbox p {
+  font-weight: bold;
+  color: #800080;
+}
+</style>
 <section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}');">
     {% include navigation.html %}
     <div class="content-wrapper">
@@ -7,7 +23,9 @@
             <img src="{{ site.baseurl }}/img/sprites/logo-white.png" width="20%" alt="{{ about.title }}">
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
             <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
-            <p>{{ site.eventDate }}</p>
+            <div class="transbox">
+              <p>{{ site.eventDate }}</p>
+            </div>
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
             {% endfor %}
