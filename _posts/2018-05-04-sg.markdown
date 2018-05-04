@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "¡Software Guru en GuanaHacks!"
+date:   2018-05-04 10:00:00
+image:  teatro.png
+permalink: /softwareguru/
+isStaticPost: false
+---
+
+<img src="../img/posts/postsg.png" width="100%">
+
+#### ¡Oficialmente Software Guru se une a los aliados de GuanaHacks!
+
+Como parte de la suma de esfuerzos por crear una experiencia innolvidable para quienes participarán en GuanaHacks, [Software Guru](https://sg.com.mx/) se une al equipo de aliados que tendrán presencia en el evento.
+
+<center>
+<a href="https://sg.com.mx/" target="_blank"><img src="../img/partners/SG.png" width="140"></a>
+<h6><a href="https://sg.com.mx/buzz/guanahacks" target="_blank">https://sg.com.mx/buzz/guanahacks</a></h6>
+</center>
+
+Entre las sorpresas que tendremos para los participantes, ¡se incluye una suscripción anual a la versión digital de Software Guru para todos los particiantes de GuanaHacks!
+
+
+##### Acerca de Software Guru
+
+Desde hace más de 12 años, SG Software Guru es el medio líder para los profesionistas de software en América Latina. A través su nuestra revista, eventos y websites atienden mensualmente a más de 80 mil profesionistas de software.
+
+Son la fuente de información más confiable, inspiración y fuente de contacto para los profesionistas de software y emprendedores en América Latina. Sus lectores continuamente los consultan para resolver dudas como:
+
+* ¿Cuál es el estado del arte en prácticas y herramientas para desarrollar software?
+* ¿Cuáles son las tendencias más importantes en la industria y quiénes son los jugadores clave?
+* ¿Qué oportunidades de negocio están disponibles para los profesionistas de software y emprendedores en la región?
+
+Sus principales productos y servicios son:
+
+* **Revista SG** - El único medio impreso en español dirigido a desarrolladores de software. Disponible también en versión digital.
+* **SG Buzz** ([www.sg.com.mx](www.sg.com.mx)) - Noticias y artículos para profesionistas de software en América Latina.
+* **SG Campus** ([www.sgcampus.com.mx](www.sgcampus.com.mx)) - Servicio de educación online para profesionistas de software de alto desempeño, dirigido por instructores, para los profesionistas de software.
+* **SG Talento** ([www.sgtalento.com](www.sgtalento.com)) - Servicio de currículums en línea para profesionistas de TI. Ayudan a los profesionistas a tener un perfil público atractivo, y a los reclutadores a encontrar a los mejores candidatos.
+* **Eventos** ([www.sg.com.mx/eventos](www.sg.com.mx/eventos)) - Organizan diferentes eventos presenciales como: **IoT Day (SG Next), Devops Day, CTO Forum, Mobile Day, Data Day**, eventos que han ganado prestigio gracias a su enfoque de contenido neutral. Su conferencia online **SG Virtual**, atrae a más de 6 mil profesionistas de software alrededor del mundo para un día de conferencias web gratuitas.
+* **Developer relations** ([http://devrel.sg.com.mx/](http://devrel.sg.com.mx/)) - Es la división de SG encargada de llevar la relación con los desarrolladores mediante: organización de hackathons, retos, eventos, capacitación, y manejo de comunidades y redes sociales.
