@@ -1,6 +1,7 @@
 -
   group: "Sponsors"
   elements:
+    - {name: "Software Guru", description: "SG Software Guru is the leading media for software professionals in Latin America", link: "https://sg.com.mx/", imageUrl: "SG.png", width: "110px"}
     - {name: "GameCoder Studios", description: "GameCoder Studios - Video Games, VR & Solutions", link: "http://www.attractio-game.com/", imageUrl: "gamecoder.png", width: "120px"}
     - {name: "SIPP Consourcing", description: "SIPP Consourcing - Servicios integrales para PyMES", link: "https://www.facebook.com/SIPPCon/", imageUrl: "sipp.jpg", width: "130px"}
     - {name: "The 3D monkey", description: "The 3D monkey - 3D Printing made easy", link: "https://www.facebook.com/the3dmonkey/", imageUrl: "3dmonkey.png", width: "85px"}
