@@ -36,6 +36,17 @@
   social:
     - {name: "site", link: "#"}
 -
+  id: 5
+  name: "Miguel"
+  surname: "Torres"
+  title: "Director de Web - Future Lab"
+  thumbnailUrl: MiguelTorres.jpg
+  team: true
+  social:
+    - {name: "site", link: "http://migueltorres.me"}
+    - {name: "github", link: "https://github.com/mickeytgl"}
+    - {name: "twitter", link: "https://twitter.com/mickeytgl"}
+-
   id: 4
   name: "Isabel"
   surname: "Arroyo"
