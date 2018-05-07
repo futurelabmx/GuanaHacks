@@ -36,7 +36,7 @@
   social:
     - {name: "site", link: "#"}
 -
-  id: 5
+  id: 3
   name: "Miguel"
   surname: "Torres"
   title: "Director de Web - Future Lab"
@@ -56,6 +56,26 @@
   social:
     - {name: "facebook", link: "https://www.facebook.com/pg/KaizenUG/"}
 -
+  id: 5
+  name: "Misraim"
+  surname: "Macias"
+  title: "Diseñador industrial apasionado por el emprendimiento, la creatividad y el diseño de nuevos productos y servicios"
+  thumbnailUrl: MisraimMacias.jpg
+  mentor: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/frank.mireles.maker/"}
+    - {name: "site", link: "https://www.behance.net/FrankMireles"}
+-
+  id: 6
+  name: "Francisco"
+  surname: "Mireles"
+  title: "Diseñador industrial apasionado por el emprendimiento, la creatividad y el diseño de nuevos productos y servicios"
+  thumbnailUrl: FranciscoMireles.jpg
+  mentor: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/frank.mireles.maker/"}
+    - {name: "site", link: "https://www.behance.net/FrankMireles"}
+-
   id: 7
   name: "Victor"
   surname: "Guerrero"
@@ -74,3 +94,43 @@
   subTeam: true
   social:
     - {name: "facebook", link: "https://www.facebook.com/pg/KaizenUG/"}
+-
+  id: 9
+  name: "Rodrigo"
+  surname: "Medina"
+  title: "Desarrollador de Android en Mariachi IO - Docker Campus Expert"
+  thumbnailUrl: RodrigoMedina.jpg
+  mentor: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rodrigo-medina-neri-01537b105/"}
+-
+  id: 10
+  name: "Fernanda"
+  surname: "Ochoa"
+  title: "Computer Systems Student at ITL, GDG León Lead Organizer, GitHub Campus Expert, Team Bravers Captain. Developer as a conviction and Maker as an accident :D"
+  thumbnailUrl: FernandaOchoa.jpg
+  mentor: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/imonsh"}
+    - {name: "github", link: "https://github.com/FernandaOchoa"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fernandaochoa8/"}
+    - {name: "facebook", link: "https://www.facebook.com/GDGLeon/"}
+-
+  id: 11
+  name: "Anahí"
+  surname: "Torres"
+  title: "Coordinadora de UGAC de la carrera de Multimedia y Comercio Electrónico en UTL."
+  thumbnailUrl: AnahiTorres.jpg
+  mentor: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/anahitinocot"}
+-
+  id: 12
+  name: "Nancy"
+  surname: "Salazar"
+  title: "Co-Founder en Iconmunity - Regional Ambassador en Technovation"
+  thumbnailUrl: NancySalazar.jpg
+  mentor: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/anahitinocot"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nancysalazar/"}
