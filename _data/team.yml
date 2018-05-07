@@ -134,3 +134,13 @@
   social:
     - {name: "twitter", link: "https://twitter.com/anahitinocot"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/nancysalazar/"}
+-
+  id: 13
+  name: "Hugo"
+  surname: "Hernandez"
+  title: "Reclutador independiente de perfiles TI"
+  thumbnailUrl: HugoHernandez.jpg
+  mentor: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/DonChambitas"}
+    - {name: "instagram", link: "https://www.instagram.com/donchambitas/"}
