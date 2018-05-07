@@ -59,7 +59,7 @@
   id: 5
   name: "Misraim"
   surname: "Macias"
-  title: "Diseñador industrial apasionado por el emprendimiento, la creatividad y el diseño de nuevos productos y servicios"
+  title: "Director General en León Joven"
   thumbnailUrl: MisraimMacias.jpg
   mentor: true
   social:
@@ -69,7 +69,7 @@
   id: 6
   name: "Francisco"
   surname: "Mireles"
-  title: "Diseñador industrial apasionado por el emprendimiento, la creatividad y el diseño de nuevos productos y servicios"
+  title: "CEO de 3D Monkey"
   thumbnailUrl: FranciscoMireles.jpg
   mentor: true
   social:
@@ -98,7 +98,7 @@
   id: 9
   name: "Rodrigo"
   surname: "Medina"
-  title: "Desarrollador de Android en Mariachi IO - Docker Campus Expert"
+  title: "Dev en Mariachi IO - Docker C. Expert"
   thumbnailUrl: RodrigoMedina.jpg
   mentor: true
   social:
@@ -107,7 +107,7 @@
   id: 10
   name: "Fernanda"
   surname: "Ochoa"
-  title: "Computer Systems Student at ITL, GDG León Lead Organizer, GitHub Campus Expert, Team Bravers Captain. Developer as a conviction and Maker as an accident :D"
+  title: "GitHub C. Expert, Team Bravers Captain"
   thumbnailUrl: FernandaOchoa.jpg
   mentor: true
   social:
@@ -119,7 +119,7 @@
   id: 11
   name: "Anahí"
   surname: "Torres"
-  title: "Coordinadora de UGAC de la carrera de Multimedia y Comercio Electrónico en UTL."
+  title: "Coord. de carrera en UGAC y en UTL."
   thumbnailUrl: AnahiTorres.jpg
   mentor: true
   social:
@@ -128,7 +128,7 @@
   id: 12
   name: "Nancy"
   surname: "Salazar"
-  title: "Co-Founder en Iconmunity - Regional Ambassador en Technovation"
+  title: "Co-Founder en Iconmunity"
   thumbnailUrl: NancySalazar.jpg
   mentor: true
   social:
@@ -138,7 +138,7 @@
   id: 13
   name: "Hugo"
   surname: "Hernandez"
-  title: "Reclutador independiente de perfiles TI"
+  title: "Reclutador independiente de TI"
   thumbnailUrl: HugoHernandez.jpg
   mentor: true
   social:
