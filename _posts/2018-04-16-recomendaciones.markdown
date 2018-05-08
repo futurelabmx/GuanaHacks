@@ -11,7 +11,7 @@ Para que tu experiencia en GuanaHacks sea la mejor, te compartimos una serie de 
 
 ##### Registro:
 
-1. El registro comenzará desde las 10:00 a.m. y continuará hasta las 11:50 a.m. día del evento, deberás dirigirte a la zona de registro (*“Registro participantes”*) y mostrar una identificación oficial, así como tu ticket de asistencia generado por *Eventbrite®*. Con ello podrás recibir tus acreditaciones (kit de bienvenida, gafetes y asignación de casa de campaña).
+1. El registro comenzará desde las 10:00 a.m. y continuará hasta las 11:50 a.m. día del evento, deberás dirigirte a la zona de registro (*“Registro participantes”*) y mostrar una identificación oficial, así como tu ticket de asistencia generado por *Eventbrite®*. Con ello podrás recibir tus acreditaciones (kit de bienvenida, gafetes y asignación de espacio para casa de campaña).
 
 2. En el caso de visitantes (día viernes 18) deberás acudir a la mesa correspondiente de registro (*“Registro visitantes”*) y mostrar una identificación oficial, así como tu ticket de asistencia generado por *Eventbrite®*. Con ello, te será entregado un identificador, el cual deberás colocar en un lugar visible para acceder al evento.
 
@@ -19,9 +19,9 @@ Para que tu experiencia en GuanaHacks sea la mejor, te compartimos una serie de 
 
 ##### Camping y espacios:
 
-1. GuanaHacks proporcionará casa de campaña compartida y alimentos a todo participante debidamente registrado. A tu llegada, durante el registro te será asignado tu camping compartido y el staff te guiará hasta él.
+1. GuanaHacks proporcionará un espacio para que pongas tu casa de campaña y alimentos a todo participante debidamente registrado. A tu llegada, durante el registro te será asignado tu camping compartido y el staff te guiará hasta él.
 
-2. Las casas de campaña asignadas son en calidad de préstamo y no se podrá llevar al finalizar el evento.
+2. La(s) casa(s) de campaña deberás de traerla(s) por tu cuenta y considerar que no ocupe más espacio del necesario para tu equipo.
 
 3. Sugerimos traer un candado, una bolsa de dormir (sleeping bag), una chamarra, una toalla y sus artículos de aseo personal (contaremos con servicio de regaderas).
 
