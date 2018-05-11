@@ -1,6 +1,7 @@
 -
   group: "Sponsors"
   elements:
+    - {name: "IBM", description: "For more than a century IBM has been dedicated to every client's success and to creating innovations that matter for the world", link: "https://www.ibm.com/us-en/", imageUrl: "ibm.png", width: "145px"}
     - {name: "Software Guru", description: "SG Software Guru is the leading media for software professionals in Latin America", link: "https://sg.com.mx/", imageUrl: "SG.png", width: "110px"}
     - {name: "CrowdForge", description: "CrowdForge is a place to find awesome open source projects to join and collaborate", link: "https://crowdforge.io/", imageUrl: "CrowdForge.png", width: "120px"}
     - {name: "GameCoder Studios", description: "GameCoder Studios - Video Games, VR & Solutions", link: "http://www.attractio-game.com/", imageUrl: "gamecoder.png", width: "180px"}
