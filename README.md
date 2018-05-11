@@ -7,42 +7,53 @@ Ya seas un@ hackatoner@ veteran@ o que no hayas participado en un hackatón ante
 ## Programa 📅
 Viernes 18 de mayo
 
-| Hora                | Actividad                                   |
-| ------------------- | --------------------------------------------|
-| 10:00 am - 12:00 pm | Registro y asignación de camping            |
-| 12:00 pm - 01:30 pm | Bienvenida e inauguración                   |
-| 01:30 pm - 03:00 pm | Kick-off! 🚀 - Panel con expertos            |
-| 03:00 pm - 05:00 pm | ¡A Comer! 🍕                                 |
-| 05:00 pm - 06:00 pm | Taller: A                                    |
-| 06:00 pm - 07:00 pm | Taller: B                                    |
-| 08:00 pm - 09:30 pm | Cena                                         |
-| 10:00 pm - 11:00 pm | Actividad sorpresa :smile:                   |
+| Hora                | Área de trabajo                 | Área de Talleres    | Área Gamer       | Auditorio    | Explanada  |
+| ------------------- | ------------------------------- | ------------------- | ---------------- | ------------ | ---------- |
+| 09:00 am - 11:00 pm |                                 |                     |                  |              | Registro   |
+| 11:00 am - 12:00 pm |                                 |                     |                  |              | Visitantes |
+| 12:00 pm - 12:30 pm |                                 |                     |                  | Inauguración |            |
+| 12:30 pm - 01:30 pm |                                 |                     |                  | Procurador   |            |
+| 02:00 pm - 03:00 pm | Experiencias en VR (GameCoder)  |                     |                  |              | Comida     |
+| 03:00 pm - 04:00 pm | Kick-off y Panel con expertos   |                     |                  |              |            |
+| 04:00 pm - 05:00 pm |                                 | Comunidades (JP)    | Abierto          |              |            |
+| 05:00 pm - 06:00 pm | 5 tecnologías innovadoras (IBM) |                     | Abierto          |              |            |
+| 06:00 pm - 07:00 pm |                                 | CV (Don Chambitas)  | Abierto          |              |            |
+| 07:00 pm - 08:00 pm |                                 |                     | Abierto          |              |            |
+| 08:00 pm - 09:00 pm |                                 |                     | Abierto          |              | Cena       |
+| 09:00 pm - 12:00 am |                                 |                     | Abierto          |              |            ||
 
 Sábado 19 de mayo
 
-| Hora                | Actividad                                   |
-| ------------------- | --------------------------------------------|
-| 02:00 am - 03:00 am | Hack Snack                                  |
-| 09:00 am - 10:30 am | Desayuno                                    |
-| 11:30 am - 01:00 pm | Conferencia: Blockchain                     |
-| 01:00 pm - 02:00 pm | Taller: C                                   |
-| 02:00 pm - 03:00 pm | Conferencia: Realidad Virtual               |
-| 03:00 pm - 05:00 pm | ¡A Comer! 🍕                                |
-| 05:00 pm - 06:30 pm | Taller: D                                   |
-| 08:00 pm - 09:30 pm | Cena                                        |
-| 10:00 pm - 11:00 pm | Stop Coding: Revisón de proyectos           |
+| Hora                | Área de trabajo                 | Área de Talleres    | Área Gamer       | Auditorio    | Explanada  |
+| ------------------- | ------------------------------- | ------------------- | ---------------- | ------------ | ---------- |
+| 12:00 am - 02:00 am | Karaoke (Music Quotes)          |                     | Torneo futbolito |              |            |
+| 02:00 am - 03:00 am |                                 |                     |                  |              | Snacks     |
+| 03:00 am - 09:00 am |                                 |                     |                  |              |            |
+| 09:00 am - 10:00 am |                                 |                     |                  |              | Desayuno   |
+| 10:00 am - 11:00 am |                                 | Git (Campus Expert) |                  |              |            |
+| 11:00 am - 12:00 pm | Revisión de avances             |                     | Abierto          |              |            |
+| 12:00 pm - 01:00 pm |                                 | Blockchain (SNSC)   | Abierto          |              |            |
+| 01:00 pm - 02:00 pm |                                 | Taller (Comunidad)  | Abierto          |              |            |
+| 02:00 pm - 03:00 pm |                                 |                     | Abierto          |              | Comida     |
+| 03:00 pm - 04:00 pm |                                 | Taller (Comunidad)  | Abierto          |              |            |
+| 04:00 pm - 07:00 pm |                                 | Prototipado (Purata)| Abierto          | Mentoría IBM |            |
+| 07:00 pm - 08:00 pm | Revisión de avances             | Pitch (Misraím)     | Abierto          |              |            |
+| 08:00 pm - 09:00 pm |                                 |                     | Abierto          |              | Cena       |
+| 09:00 pm - 12:00 am |                                 |                     | Abierto          |              |            ||
 
 Domingo 20 de mayo
 
-| Hora                | Actividad                                   |
-| ------------------- | --------------------------------------------|
-| 02:00 am - 03:00 am | Hack Snack                                  |
-| 07:00 am - 08:00 am | Top 10: Anuncio de finalistas               |
-| 09:00 am - 10:30 am | Desayuno                                    |
-| 11:30 am - 12:30 pm | Presentación de proyectos                   |
-| 12:30 pm - 01:00 pm | Deliberación del jurado                     |
-| 01:00 pm - 01:30 pm | Anuncio de ganadores y premiación           |
-| 01:30 pm - 02:00 pm | Clausura                                    |
+| Hora                | Área de trabajo                 | Área de Talleres    | Área Gamer       | Auditorio    | Explanada  |
+| ------------------- | ------------------------------- | ------------------- | ---------------- | ------------ | ---------- |
+| 12:00 am - 02:00 am | Stop , entrega de proyectos     |                     |                  |              |            |
+| 02:00 am - 03:00 am |                                 |                     |                  |              | Snacks     |
+| 03:00 am - 09:00 am |                                 |                     |                  |              |            |
+| 09:00 am - 10:00 am |                                 |                     |                  |              | Desayuno   |
+| 10:00 am - 11:00 am |                                 |                     |                  |              |            |
+| 11:00 am - 12:00 pm | Pitch finalistas                |                     |                  |              |            |
+| 12:00 pm - 12:45 pm | Deliberación                    |                     |                  |              |            |
+| 12:45 pm - 01:00 pm | Premiación                      |                     |                  |              |            ||
+
 
 \* Sujeto a cambios sin previo aviso
 
