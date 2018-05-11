@@ -13,8 +13,8 @@ Viernes 18 de mayo
 | 11:00 am - 12:00 pm |                                 |                     |                  |              | Visitantes |
 | 12:00 pm - 12:30 pm |                                 |                     |                  | Inauguración |            |
 | 12:30 pm - 01:30 pm |                                 |                     |                  | Procurador   |            |
-| 02:00 pm - 03:00 pm | Experiencias en VR (GameCoder)  |                     |                  |              | Comida     |
-| 03:00 pm - 04:00 pm | Kick-off y Panel con expertos   |                     |                  |              |            |
+| 02:00 pm - 03:00 pm | Kick-off y Panel con expertos   |                     |                  |              |            |
+| 03:00 pm - 04:00 pm | Experiencias en VR (GameCoder)  |                     |                  |              | Comida     |
 | 04:00 pm - 05:00 pm |                                 | Comunidades (JP)    | Abierto          |              |            |
 | 05:00 pm - 06:00 pm | 5 tecnologías innovadoras (IBM) |                     | Abierto          |              |            |
 | 06:00 pm - 07:00 pm |                                 | CV (Don Chambitas)  | Abierto          |              |            |
@@ -34,8 +34,8 @@ Sábado 19 de mayo
 | 11:00 am - 12:00 pm | Revisión de avances             |                     | Abierto          |              |            |
 | 12:00 pm - 01:00 pm |                                 | Blockchain (SNSC)   | Abierto          |              |            |
 | 01:00 pm - 02:00 pm |                                 | Taller (Comunidad)  | Abierto          |              |            |
-| 02:00 pm - 03:00 pm |                                 |                     | Abierto          |              | Comida     |
-| 03:00 pm - 04:00 pm |                                 | Taller (Comunidad)  | Abierto          |              |            |
+| 02:00 pm - 03:00 pm |                                 | Taller (Comunidad)  | Abierto          |              |            |
+| 03:00 pm - 04:00 pm |                                 |                     | Abierto          |              | Comida     |
 | 04:00 pm - 07:00 pm |                                 | Prototipado (Purata)| Abierto          | Mentoría IBM |            |
 | 07:00 pm - 08:00 pm | Revisión de avances             | Pitch (Misraím)     | Abierto          |              |            |
 | 08:00 pm - 09:00 pm |                                 |                     | Abierto          |              | Cena       |
