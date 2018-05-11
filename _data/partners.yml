@@ -2,17 +2,19 @@
   group: "Sponsors"
   elements:
     - {name: "Software Guru", description: "SG Software Guru is the leading media for software professionals in Latin America", link: "https://sg.com.mx/", imageUrl: "SG.png", width: "110px"}
-    - {name: "GameCoder Studios", description: "GameCoder Studios - Video Games, VR & Solutions", link: "http://www.attractio-game.com/", imageUrl: "gamecoder.png", width: "120px"}
-    - {name: "SIPP Consourcing", description: "SIPP Consourcing - Servicios integrales para PyMES", link: "https://www.facebook.com/SIPPCon/", imageUrl: "sipp.jpg", width: "130px"}
-    - {name: "The 3D monkey", description: "The 3D monkey - 3D Printing made easy", link: "https://www.facebook.com/the3dmonkey/", imageUrl: "3dmonkey.png", width: "85px"}
-    - {name: "Don Chambitas", description: "Reclutador independiente de perfiles TI", link: "https://twitter.com/DonChambitas", imageUrl: "don_chambitas.png", width: "100px"}
+    - {name: "CrowdForge", description: "CrowdForge is a place to find awesome open source projects to join and collaborate", link: "https://crowdforge.io/", imageUrl: "CrowdForge.png", width: "120px"}
+    - {name: "GameCoder Studios", description: "GameCoder Studios - Video Games, VR & Solutions", link: "http://www.attractio-game.com/", imageUrl: "gamecoder.png", width: "180px"}
+    - {name: "SIPP Consourcing", description: "SIPP Consourcing - Servicios integrales para PyMES", link: "https://www.facebook.com/SIPPCon/", imageUrl: "sipp.jpg", width: "160px"}
+    - {name: "The 3D monkey", description: "The 3D monkey - 3D Printing made easy", link: "https://www.facebook.com/the3dmonkey/", imageUrl: "3dmonkey.png", width: "75px"}
+    - {name: "Don Chambitas", description: "Reclutador independiente de perfiles TI", link: "https://twitter.com/DonChambitas", imageUrl: "don_chambitas.png", width: "80px"}
 -
   group: "Agradecimientos"
   elements:
-    - {name: "Juventud Guanajuato Capital", description: "Juventud Guanajuato Capital", link: "https://www.facebook.com/juventud.guanajuato.capital/", imageUrl: "juventud.png", width: "120px"}
-    - {name: "Iconmunity", description: "Iconmunity", link: "https://opencollective.com/iconmunity", imageUrl: "Iconmunity.jpg", width: "120px"}
-    - {name: "Temachtiani", description: "Temachtiani", link: "https://twitter.com/temachtianiMx", imageUrl: "Temachtiani.jpg", width: "120px"}
-    - {name: "Tomato Valley", description: "Tomato Valley", link: "http://tomatovalley.net/", imageUrl: "TomatoValley.jpg", width: "120px"}
-    - {name: "GDG Monterrey", description: "GDG Monterrey", link: "https://www.facebook.com/GDGMonterrey/", imageUrl: "GDGMonterrey.jpg", width: "120px"}
-    - {name: "GitHub Campus Experts", description: "GitHub Campus Experts", link: "http://githubcampus.expert", imageUrl: "GitHubCampus.jpg", width: "120px"}
-    - {name: "Docker Campus Ambassador", description: "Docker Campus Ambassador", link: "https://blog.docker.com/2017/05/announcing-docker-student-developer-kit-campus-ambassador-program/", imageUrl: "DockerCampus.jpg", width: "120px"}
+    - {name: "Juventud Guanajuato Capital", description: "Juventud Guanajuato Capital", link: "https://www.facebook.com/juventud.guanajuato.capital/", imageUrl: "juventud.png", width: "110px"}
+    - {name: "Music Quotes", description: "Juventud Guanajuato Capital", link: "https://www.facebook.com/juventud.guanajuato.capital/", imageUrl: "musicquotes.png", width: "230px"}
+    - {name: "Iconmunity", description: "Iconmunity", link: "https://opencollective.com/iconmunity", imageUrl: "Iconmunity.jpg", width: "100px"}
+    - {name: "Temachtiani", description: "Temachtiani", link: "https://twitter.com/temachtianiMx", imageUrl: "Temachtiani.jpg", width: "90px"}
+    - {name: "Tomato Valley", description: "Tomato Valley", link: "http://tomatovalley.net/", imageUrl: "tomato_black.png", width: "120px"}
+    - {name: "GDG Monterrey", description: "GDG Monterrey", link: "https://www.facebook.com/GDGMonterrey/", imageUrl: "GDGMonterrey.jpg", width: "80px"}
+    - {name: "GitHub Campus Experts", description: "GitHub Campus Experts", link: "http://githubcampus.expert", imageUrl: "GitHubCampus.jpg", width: "160px"}
+    - {name: "Docker Campus Ambassador", description: "Docker Campus Ambassador", link: "https://blog.docker.com/2017/05/announcing-docker-student-developer-kit-campus-ambassador-program/", imageUrl: "DockerCampus.jpg", width: "80px"}
