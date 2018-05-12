@@ -20,3 +20,4 @@
     - {name: "GitHub Campus Experts", description: "GitHub Campus Experts", link: "http://githubcampus.expert", imageUrl: "GitHubCampus.jpg", width: "160px"}
     - {name: "Docker Campus Ambassador", description: "Docker Campus Ambassador", link: "https://blog.docker.com/2017/05/announcing-docker-student-developer-kit-campus-ambassador-program/", imageUrl: "DockerCampus.jpg", width: "85px"}
     - {name: "Stickers GAME", description: "Stickers GAME", link: "https://www.facebook.com/StickersGAME/", imageUrl: "stickersgame.png", width: "80px"}
+    - {name: "Women.inData", description: "Women.inData", link: "https://www.facebook.com/WomeninDataMX/", imageUrl: "wind.png", width: "150px"}
