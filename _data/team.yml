@@ -10,7 +10,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/richard016"}
     - {name: "github", link: "https://github.com/ricardomiron"}
-    - {name: "site", link: "https://www.linkedin.com/in/ricardomiron/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ricardomiron/"}
 -
   id: 1
   name: "Rodolfo"
@@ -23,7 +23,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/FerroRodolfo"}
     - {name: "github", link: "https://github.com/RodolfoFerro"}
-    - {name: "site", link: "https://www.linkedin.com/in/rodolfoferro/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rodolfoferro/"}
 -
   id: 2
   name: "Miguel"
@@ -34,12 +34,12 @@
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
-    - {name: "site", link: "#"}
+    - {name: "facebook", link: "www.facebook.com/f.lab.mx"}
 -
   id: 3
   name: "Miguel"
   surname: "Torres"
-  title: "Director de Web - Future Lab"
+  title: "Coord. de Web - Future Lab"
   thumbnailUrl: MiguelTorres.jpg
   team: true
   social:
@@ -59,22 +59,22 @@
   id: 5
   name: "Misraim"
   surname: "Macias"
-  title: "Director General en León Joven"
+  title: "Director General - León Joven"
   thumbnailUrl: MisraimMacias.jpg
   mentor: true
   social:
-    - {name: "facebook", link: "https://www.facebook.com/frank.mireles.maker/"}
-    - {name: "site", link: "https://www.behance.net/FrankMireles"}
+    - {name: "twitter", link: "https://twitter.com/misraimm"}
+    - {name: "site", link: "https://www.linkedin.com/in/misraimm/"}
 -
   id: 6
-  name: "Francisco"
-  surname: "Mireles"
-  title: "CEO de 3D Monkey"
-  thumbnailUrl: FranciscoMireles.jpg
-  mentor: true
+  name: "Evandro"
+  surname: "Patrón"
+  title: "Coord. de Difusión "
+  thumbnailUrl: EvandroPatron.jpg
+  team: true
   social:
-    - {name: "facebook", link: "https://www.facebook.com/frank.mireles.maker/"}
-    - {name: "site", link: "https://www.behance.net/FrankMireles"}
+    - {name: "twitter", link: "https://twitter.com/EvandroPat"}
+    - {name: "site", link: "https://www.linkedin.com/in/evandropatron/"}
 -
   id: 7
   name: "Victor"
@@ -98,7 +98,7 @@
   id: 9
   name: "Rodrigo"
   surname: "Medina"
-  title: "Dev en Mariachi IO - Docker C. Expert"
+  title: "Dev - Mariachi IO & Docker Ambassador"
   thumbnailUrl: RodrigoMedina.jpg
   mentor: true
   social:
@@ -107,7 +107,7 @@
   id: 10
   name: "Fernanda"
   surname: "Ochoa"
-  title: "GitHub C. Expert, Team Bravers Captain"
+  title: "GitHub Campus Expert"
   thumbnailUrl: FernandaOchoa.jpg
   mentor: true
   social:
@@ -119,7 +119,7 @@
   id: 11
   name: "Anahí"
   surname: "Torres"
-  title: "Coord. de carrera en UGAC y en UTL."
+  title: "Coord. de carrera - UGAC & UTL."
   thumbnailUrl: AnahiTorres.jpg
   mentor: true
   social:
@@ -128,7 +128,7 @@
   id: 12
   name: "Nancy"
   surname: "Salazar"
-  title: "Co-Founder en Iconmunity"
+  title: "Co-Founder - Iconmunity"
   thumbnailUrl: NancySalazar.jpg
   mentor: true
   social:
@@ -143,4 +143,67 @@
   mentor: true
   social:
     - {name: "twitter", link: "https://twitter.com/DonChambitas"}
-    - {name: "instagram", link: "https://www.instagram.com/donchambitas/"}
+    - {name: "site", link: "https://www.instagram.com/donchambitas/"}
+-
+  id: 14
+  name: "Jaasiel"
+  surname: "Sánchez"
+  title: "Co-Founder - SIPP"
+  thumbnailUrl: JaasielSanchez.jpg
+  mentor: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/SIPPCon/"}
+-
+  id: 15
+  name: "Emmanuel"
+  surname: "Zavala"
+  title: "Co-Founder - SIPP"
+  thumbnailUrl: EmmanuelZavala.jpg
+  mentor: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/SIPPCon/"}
+-
+  id: 16
+  name: "Juan Caros"
+  surname: "Ruiz"
+  title: "Software Engineer - MagmaLabs"
+  thumbnailUrl: JuanRuiz.jpg
+  mentor: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/juancrg90/"}
+-
+  id: 17
+  name: "Juan Pablo"
+  surname: "Flores"
+  title: "GitHub Campus Rep"
+  thumbnailUrl: JuanFlores.jpg
+  mentor: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/juancrg90/"}
+-
+  id: 18
+  name: "Lupita"
+  surname: "Vallejo"
+  title: "Miembro - Iconmunity"
+  thumbnailUrl: LupitaVallejo.jpg
+  mentor: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/Iconmunity/"}
+-
+  id: 19
+  name: "Daniel"
+  surname: "Lira"
+  title: "Miembro - Iconmunity"
+  thumbnailUrl: DanielLira.jpg
+  mentor: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/Iconmunity/"}
+-
+  id: 20
+  name: "Melisa"
+  surname: "Alvarado"
+  title: "Miembro - Iconmunity"
+  thumbnailUrl: MelisaAlvarado.jpg
+  mentor: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/Iconmunity/"}
