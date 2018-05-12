@@ -58,13 +58,13 @@
 -
   id: 5
   name: "Misraim"
-  surname: "Macias"
+  surname: "Macías"
   title: "Director General - León Joven"
   thumbnailUrl: MisraimMacias.jpg
   mentor: true
   social:
     - {name: "twitter", link: "https://twitter.com/misraimm"}
-    - {name: "site", link: "https://www.linkedin.com/in/misraimm/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/misraimm/"}
 -
   id: 6
   name: "Evandro"
