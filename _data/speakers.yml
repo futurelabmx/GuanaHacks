@@ -1,71 +1,139 @@
  -
-  id: 1
-  name: "Rodolfo"
-  surname: "Ferro"
-  company: "GitHub Education"
-  title: "Campus Expert"
-  bio: 'Math student · Tech Lead @futurelabmx · xGSA · @ClubesCienciaMx · @defpodcastmx · #Python 💙🐍 · #SoyUG'
-  thumbnailUrl: RodolfoFerro.jpg
-  rockstar: false
-  social:
-    - {name: "site", link: "https://rodolfoferro.github.io/cv/"}
-    - {name: "twitter", link: "https://twitter.com/FerroRodolfo"}
-    - {name: "github", link: "https://github.com/RodolfoFerro"}
- -
-  id: 2
-  name: "Ricardo"
-  surname: "Mirón"
-  company: "Future Lab"
-  title: "Co-Founder"
-  bio: 'Information Systems Student @Universidad de Guanajuato Co-Founder of @futurelabmx Tech & Management'
-  thumbnailUrl: RicardoMiron.jpg
-  rockstar: false
-  social:
-    - {name: "site", link: "https://www.linkedin.com/in/ricardomiron/"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/ricardomiron"}
- -
-  id: 3
-  name: "Jorge"
-  surname: "Eladio"
-  company: "Askha MX"
-  title: "CEO & Founder"
-  bio: 'Humano, emprendedor, amigo, hermano, valiente, artista, innovador, conferencista, viajero, voluntario'
-  thumbnailUrl: JorgeEladio.jpg
-  rockstar: true
-  social:
-    - {name: "site", link: "https://askha.org.mx/"}
- -
   id: 4
-  name: "Marcel"
-  surname: "Stöckli"
-  company: "GameCoder Studios"
-  title: "CEO & Producer"
-  bio: 'Soltero'
-  thumbnailUrl: MarcelStockli.jpg
-  rockstar: true
-  social:
-    - {name: "site", link: "https://www.linkedin.com/in/marcel-stockli-contreras-99759539/"}
-    - {name: "twitter", link: "https://twitter.com/gamecoder_team?lang=es"}
- -
-  id: 5
-  name: "Juan Pablo"
-  surname: "Flores"
-  company: "GitHub Education"
-  title: "Campus Expert"
-  bio: 'Estudiante de ING. en Computación @UNAM, GitHub Campus Expert y Asistente de Investigación en HCI. Amante del café.☕ Antes Comisionado de @MLHacks en México'
-  thumbnailUrl: JuanFlores.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/jpflores9"}
- -
-  id: 6
   name: "Luis Felipe"
   surname: "Guerrero"
   company: "Universidad de Guanajuato"
   title: "Rector General"
   bio: 'Rector General de la Universidad de Guanajuato'
   thumbnailUrl: LuisFelipe.jpg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "facebook", link: "https://www.facebook.com/Dr.LuisFelipeGuerreroAgripino/"}
+ -
+  id: 5
+  name: "Carlos"
+  surname: "Zamarripa"
+  company: "Procuraduría General de Justicia de Guanajuato"
+  title: "Titular"
+  bio: 'Investigación Especializada, Ciencias Jurídico - Penales y Derecho Criminal'
+  thumbnailUrl: CarlosZamarripa.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://www.twitter.com/carloszamarr"}
+ -
+  id: 7
+  name: "Mauricio"
+  surname: "García"
+  company: "IBM México"
+  title: "Technical Expert"
+  bio: '15 años de experiencia en la industria de TI, en desarrollo de software, arquitectura empresarial y estrategia.'
+  thumbnailUrl: MauricioGarcia.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/patchank/"}
+ -
+  id: 6
+  name: "Mariano"
+  surname: "Rivera"
+  company: "Centro Nacional de Supercómputo"
+  title: "Director"
+  bio: 'Investigador del departamento de Ciencias Computacionales del Centro de Investigación en Matematicas A.C., CIMAT'
+  thumbnailUrl: MarianoRivera.gif
+  rockstar: true
+  social:
+    - {name: "site", link: "http://www.cimat.mx/es/Mariano_Jose_Juan_Rivera_Meraz"}
+ -
+  id: 9
+  name: "Misraim"
+  surname: "Macías"
+  company: "León Joven"
+  title: "Director General"
+  bio: 'TEDx organizer for over 7 years achieving over 75 tedx talks online with over 50 million views on social media.'
+  thumbnailUrl: MisraimMacias.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/misraimm"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/misraimm/"}
+ -
+  id: 3
+  name: "Juan Pablo"
+  surname: "Flores"
+  company: "GitHub Education"
+  title: "Campus Rep"
+  bio: 'Estudiante de ING. en Computación @UNAM, GitHub Campus Expert y Asistente de Investigación en HCI. Amante del café.☕ Antes Comisionado de @MLHacks en México'
+  thumbnailUrl: JuanFlores.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/jpflores9"}
+ -
+  id: 1
+  name: "Jorge"
+  surname: "Ortiz"
+  company: "Askha MX"
+  title: "CEO & Founder"
+  bio: 'Humano, emprendedor, amigo, hermano, valiente, artista, innovador, conferencista, viajero, voluntario'
+  thumbnailUrl: JorgeEladio.jpg
+  rockstar: false
+  social:
+    - {name: "site", link: "https://askha.org.mx/"}
+ -
+  id: 2
+  name: "Marcel"
+  surname: "Stöckli"
+  company: "GameCoder Studios"
+  title: "CEO & Producer"
+  bio: 'CEO, producer and graphics programmer at GameCoder Studios, soltero'
+  thumbnailUrl: MarcelStockli.jpg
+  rockstar: true
+  social:
+    - {name: "site", link: "https://www.linkedin.com/in/marcel-stockli-contreras-99759539/"}
+    - {name: "twitter", link: "https://twitter.com/gamecoder_team?lang=es"}
+ -
+  id: 8
+  name: "Hugo"
+  surname: "Hernández"
+  company: "Don Chambitas"
+  title: "Reclutador independiente de TI"
+  bio: 'Reclutador TI. Me gusta chambear con compañías orientadas a su gente. Comparto #ChambasPaLaBanda mediante @DonChambitas'
+  thumbnailUrl: HugoHernandez.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/donchambitas/"}
+ -
+  id: 10
+  name: "Omar Jair"
+  surname: "Purata"
+  company: "Universidad de Guanajuato"
+  title: "Investigador"
+  bio: 'Profesor Investigador en la Universidad de Guanajuato.'
+  thumbnailUrl: OmarPurata.jpg
+  rockstar: false
+  social:
+    - {name: "site", link: "http://www.dcne.ugto.mx/mgit/es/comunidad/profesores/nucleo-academico-basico?id=65"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/omar-jair-purata-sifuentes-54845a39/"}
+ # -
+ # id: 8
+ # name: "Rodolfo"
+ # surname: "Ferro"
+ # company: "GitHub Education"
+ # title: "Campus Expert"
+ # bio: 'Math student · Tech Lead @futurelabmx · xGSA · @ClubesCienciaMx · @defpodcastmx · #Python'
+ # thumbnailUrl: RodolfoFerro.jpg
+ # rockstar: false
+ # social:
+ #   - {name: "site", link: "https://rodolfoferro.github.io/cv/"}
+ #   - {name: "twitter", link: "https://twitter.com/FerroRodolfo"}
+ #   - {name: "github", link: "https://github.com/RodolfoFerro"}
+ # -
+ # id: 9
+ # name: "Ricardo"
+ # surname: "Mirón"
+ # company: "Future Lab"
+ # title: "Co-Founder"
+ # bio: 'Information Systems Student @Universidad de Guanajuato Co-Founder of @futurelabmx Tech & Management'
+ # thumbnailUrl: RicardoMiron.jpg
+ # rockstar: false
+ # social:
+ #   - {name: "site", link: "https://www.linkedin.com/in/ricardomiron/"}
+ #   - {name: "twitter", link: "https://twitter.com/richard016"}
+ #   - {name: "github", link: "https://github.com/ricardomiron"}
