@@ -3,13 +3,18 @@
   title: "Registro y asignación del camping ⛺️"
   place: "Vestibulo principal"
   service: true
-  description: "El mejor momento para conversar con otros participantes y aramar tu equipo."
+  description: "El mejor momento para conversar con otros participantes y aramar tu casa de campaña."
 -
   id: 002
   title: "Bienvenida e Inaguración 🎉"
-  place: "Escenario principal"
-  service: true
   description: "Daremos inicio con unas palabras del Rector General de la Universidad de Guanajuato, así como del Procurador de Justicia del Estado de Guanajuato."
+  place: "Auditorio General"
+  subtype: presentation
+  speakers: [4, 5]
+  language: es
+  complexity: "Beginner"
+  presentation: "https://www.youtube.com/watch?v=7_0uknBC3lw"
+  video: "//www.youtube.com/watch?v=7_0uknBC3lw"
 -
   id: 003
   title: "Kick-off!🚀 - Panel con expertos"
@@ -20,55 +25,116 @@
 -
   id: 004
   title: "¡A comer! 🍕"
+  place: "Explanada"
   service: true
 -
   id: 005
-  title: "Taller A: 🖍"
-  description: "Pronto tendremos más información..."
-  service: true
+  title: "Realidad Virtual: Creando nuevas experiencias en videojuegos"
+  description: "Aprende como la empresa local GameCoder Studios desarrolla videojuegos y aplicaciones en realidad virtual para una experiencia más inmersiva."
+  subtype: keynote
+  speakers: [2]
+  language: es
+  complexity: "Beginner"
+  presentation: "http://www.attractio-game.com/"
+  video: "//www.youtube.com/watch?v=9PIhBQPxn9k"
 -
   id: 006
-  title: "Taller B: 💰"
-  description: "Pronto tendremos más información..."
-  service: true
-
+  title: "Comunidades: El impacto tecnológico, social y emprendedor"
+  description: "Las comunidades son un factor importante en el ámbito de innovación nacional."
+  subtype: keynote
+  speakers: [1]
+  language: es
+  complexity: "Beginner"
+  presentation: "http://www.attractio-game.com/"
+  video: "//www.youtube.com/watch?v=9PIhBQPxn9k"
+-
+  id: 021
+  title: "5 in 5: 5 innovaciones que cambiarán nuestras vidas en 5 años"
+  description: "5 innovaciones que cambiarán nuestras vidas en 5 años."
+  subtype: keynote
+  speakers: [7]
+  language: es
+  complexity: "Beginner"
+  presentation: "http://www.attractio-game.com/"
+  video: "//www.youtube.com/watch?v=9PIhBQPxn9k"
+-
+  id: 022
+  title: "¿Cómo hacer que te contraten?"
+  description: "Aprende a crear un buen CV de la mano de uno de los reclutadores de TI independientes con más experiencia en la industria."
+  subtype: workshop
+  speakers: [8]
+  language: es
+  complexity: "Intermediate"
+  video: "//www.youtube.com/watch?v=qj9ewQz5SpU"
 -
   id: 007
   title: "Cena 🍽"
+  place: "Explanada"
   service: true
 -
   id: 008
-  title: "Actividad Sorpresa 😄"
-  description: "Algo de competencia sana ;)"
+  title: "Karaoke 🎤"
+  description: "Hosted by Music Quotes"
+  place: "Escenario principal"
   service: true
 -
   id: 009
-  title: "Hack Snack 🍿"
+  title: "Torneo de futbolito ⚽️"
+  description: "GuanaHacks World Championship 2018"
+  place: "Zona Gamer"
   service: true
 -
   id: 010
   title: "Desayuno 🥞"
+  place: "Explanada"
   service: true
 -
   id: 011
-  title: "Conferencia 1: 👾"
-  description: "Pronto tendremos más información..."
-  service: true
+  title: "Git + GitHub: crea software colaborativo"
+  description: "Conoce los fundamentos básicos de unos de los software de control de versiones más populares del mundo y evita tener el final_final2_ultimate.doc en tu vida."
+  subtype: workshop
+  speakers: [3]
+  language: es
+  complexity: "Intermediate"
+  video: "//www.youtube.com/watch?v=qj9ewQz5SpU"
 -
   id: 012
-  title: "Taller C: 🥇"
-  description: "Pronto tendremos más información..."
-  service: true
+  title: "Blockchain: la tecnología detrás de las criptomodenas"
+  description: "¿Qué es el blockchain? Entre otras cosas, es una de las palabras de moda en los últimos tiempos."
+  subtype: keynote
+  speakers: [6]
+  language: es
+  complexity: "Intermediate"
+  presentation: "http://www.attractio-game.com/"
+  video: "//www.youtube.com/watch?v=9PIhBQPxn9k"
 -
   id: 013
-  title: "Conferencia 2: 🎮"
+  title: "Taller: Iconmmunity"
   description: "Pronto tendremos más información..."
   service: true
 -
-  id: 014
-  title: "Taller D: 💻 "
+  id: 025
+  title: "Taller: Tomato Valley"
   description: "Pronto tendremos más información..."
   service: true
+-
+  id: 026
+  title: "Prototipado de proyectos"
+  description: "Aprende a estructurar un proyecto desde la idea hasta la realización del mismo."
+  subtype: workshop
+  speakers: [10]
+  language: es
+  complexity: "Intermediate"
+  video: "//www.youtube.com/watch?v=qj9ewQz5SpU"
+-
+  id: 014
+  title: "Pitch: Cómo presentar tu proyecto"
+  description: "El pitch es una presentación que se realiza para que un posible inversor, considere la opción de invertir en tu empresa o de hacer negocios juntos."
+  subtype: workshop
+  speakers: [9]
+  language: es
+  complexity: "Intermediate"
+  video: "//www.youtube.com/watch?v=qj9ewQz5SpU"
 -
   id: 015
   title: "Stop Coding: Revisión de Proyectos ⛔️"
