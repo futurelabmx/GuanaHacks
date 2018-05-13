@@ -1,21 +1,21 @@
 -
   id: 0
-  name: "Jorge"
-  surname: "Solalinde"
-  company: "CANIETI"
-  title: "Android Developer"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Candy"
+  surname: "Flores"
+  company: "Agrobioteg"
+  title: "Directora"
+  thumbnailUrl: Candy.jpeg
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 1
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  company: "Nravo, GDG Lviv"
-  title: "Team Lead, Unity 3D Developer"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Jesús"
+  surname: "Martinez"
+  company: "VIDA UG"
+  title: "Director"
+  thumbnailUrl: Patino.jpg
   social:
     - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
     - {name: "twitter", link: "https://twitter.com/zasadnyy"}
@@ -23,22 +23,22 @@
     - {name: "site", link: "http://zasadnyy.com/"}
 -
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  company: "ELEKS, GDG Lviv"
-  title: "R&D Engineer"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Jorge"
+  surname: "Solalinde"
+  company: "CANIETI"
+  title: "Director regional"
+  thumbnailUrl: JorgeSolalinde.jpg
   social:
     - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
     - {name: "twitter", link: "https://twitter.com/p1f"}
     - {name: "site", link: "http://andrusiv.com/"}
 -
   id: 3
-  name: "Oleh"
-  surname: "Zasadnyy"
-  company: "EPAM Systems, GDG Lviv"
-  title: "Junior Software Engineer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Cecilia"
+  surname: "Ramos"
+  company: "Universidad de Guanajuato"
+  title: "Gestión de la calidad"
+  thumbnailUrl: CeciliaRamos.jpg
   social:
     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
     - {name: "github", link: "https://github.com/ozasadnyy"}

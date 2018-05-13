@@ -43,10 +43,11 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Inicio"}
+ - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/programa/", text: "Programa"}
- # - {permalink: "/speakers/", text: "Ponentes"}
+ - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
- # - {permalink: "/equipo/", text: "Hackathon"}
+ #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
   - {permalink: "/registro", text: "Regístrate"}
 
@@ -178,37 +179,40 @@ hackathonTitle: "GuanaHacks"
 enableHackathon: true
 
 # Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
+aboutHackathonTitle: "Conoce las temáticas"
 hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+ - {title: "Seguridad ", image: "safety.png", details: "
+ Seguridad Pública 👮 \n
+ Seguridad Ante desastres 🌪 \n
+ Seguridad Estudiantil 👨 \n
+ Seguridad Turística 🏖 \n
+ Seguridad del Hogar 🏠"}
 
 # Hackathon Judges Block
-judgesImage: "judges.jpg"
-judgesTitle: "Judges"
+judgesImage: "statistic.png"
+judgesTitle: "Jueces"
 
 # Hackathon Prizes Block
-prizesTitle: "Prizes"
+prizesTitle: "Premios"
 prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+ - {title: "2do Lugar", image: "prize.png", info: "$$ para tu proyecto, GitHub Pack, Entradas a Campus Party 2018 y TalentLand 2019"}
+ - {title: "1er Lugar", image: "prize.png", info: "$$$ para tu proyecto, Incubación, GitHub Pack, Entradas a Campus Party 2018 y TalentLand 2019"}
+ - {title: "3er Lugar", image: "prize.png", info: "$ para tu proyecto, GitHub Pack"}
 
 # Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
+hackathonLocationBlockTitle: "Ubicación"
+hackathonLocationName: "GuanaHacks"
+hackathonLocationLink: "http://guanahacks.com"
+hackathonStreetAddress: "División de Ciencias Económico Administrativas"
+hackathonAddressLocality: "Guanajuato"
+hackathonAddressLocalityRegion: "Guanajuato"
+hackathonPostalCode: "36000"
+hackathonAddressCountry: "Mexico"
+hackathonTimeTitle: "Registro"
+hackathonStartTime: "2018-05-18T10:00"
 hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
-viewOnMap: "View on Google Maps"
+hackathonEndTime: "2018-05-20T13:30"
+viewOnMap: "Ver en Google Maps"
 hackathonPlaceCoordinates: "21.012597, -101.275503"
 hackathonMapCenterCoordinates: "21.012597, -101.275503"
 hackathonMapMobileCenterCoordinates: "21.012597, -101.275503"
