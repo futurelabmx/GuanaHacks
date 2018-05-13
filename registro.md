@@ -14,6 +14,8 @@ Si sólo quieres ir a darte una vuelta y ver cómo es el ambiente, te recomendam
 <br><br>
 
 ##### Pre-Registro para participantes:
-Si quieres participar en el Hackathon y concursar con un proyecto, te recomendamos llenar el pre-registro. Nosotros te haremos saber en caso de ser o no seleccionado ya que tenemos espacio limitado.
-\*En caso de ser seleccionado te mandaremos tu entrada la cuál incluye camping y alimentos.
-<iframe src="https://goo.gl/forms/xnewTHojmlLMtm8G3" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+El registro para participantes ha cerrado.
+
+\*En caso de ser seleccionado te mandaremos tu entrada a más tardar el 14 de mayo, te recomendamos leer las recomendaciones para el evento.
+
+[Consultar recomendaciones](www.guanahacks.com/recomendaciones/).
