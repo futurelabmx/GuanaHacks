@@ -31,17 +31,17 @@
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/patchank/"}
- -
-  id: 6
-  name: "Mariano"
-  surname: "Rivera"
-  company: "Centro Nacional de Supercómputo"
-  title: "Director"
-  bio: 'Investigador del departamento de Ciencias Computacionales del Centro de Investigación en Matematicas A.C., CIMAT'
-  thumbnailUrl: MarianoRivera.gif
-  rockstar: true
-  social:
-    - {name: "site", link: "http://www.cimat.mx/es/Mariano_Jose_Juan_Rivera_Meraz"}
+ # -
+ #  id: 6
+ #  name: "Mariano"
+ #  surname: "Rivera"
+ #  company: "Centro Nacional de Supercómputo"
+ #  title: "Director"
+ #  bio: 'Investigador del departamento de Ciencias Computacionales del Centro de Investigación en Matematicas A.C., CIMAT'
+ #  thumbnailUrl: MarianoRivera.gif
+ #  rockstar: true
+ #  social:
+ #    - {name: "site", link: "http://www.cimat.mx/es/Mariano_Jose_Juan_Rivera_Meraz"}
  -
   id: 9
   name: "Misraim"

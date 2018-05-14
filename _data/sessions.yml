@@ -42,7 +42,7 @@
   title: "Comunidades: El impacto tecnológico, social y emprendedor"
   description: "Las comunidades son un factor importante en el ámbito de innovación nacional."
   subtype: keynote
-  speakers: [1]
+  speakers: [3]
   language: es
   complexity: "Beginner"
   presentation: "http://www.attractio-game.com/"
@@ -93,7 +93,7 @@
   title: "Git + GitHub: crea software colaborativo"
   description: "Conoce los fundamentos básicos de unos de los software de control de versiones más populares del mundo y evita tener el final_final2_ultimate.doc en tu vida."
   subtype: workshop
-  speakers: [3]
+  # speakers: [1]
   language: es
   complexity: "Intermediate"
   video: "//www.youtube.com/watch?v=qj9ewQz5SpU"
