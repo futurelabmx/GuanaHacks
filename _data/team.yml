@@ -207,3 +207,21 @@
   mentor: true
   social:
     - {name: "facebook", link: "https://www.facebook.com/Iconmunity/"}
+-
+  id: 21
+  name: "Edgar Marco"
+  surname: "Galván"
+  title: "GDG Monterrey"
+  thumbnailUrl: MarcoGalvan.jpg
+  mentor: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/Iconmunity/"}
+-
+  id: 20
+  name: "Fernando"
+  surname: "Gallardo"
+  title: "CoFounder TomatoValley"
+  thumbnailUrl: FernandoGallardo.jpg
+  mentor: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/Iconmunity/"}
