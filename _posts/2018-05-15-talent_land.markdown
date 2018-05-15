@@ -13,7 +13,7 @@ isStaticPost: false
 
 #### Sí, *¡en GuanaHacks tienes oportunidad de ganar boletos para Talent Land 2019!*
 
-El equipo de Talent Land se suma a los aliados de GuanaHacks 2019, apoyando con entradas a Talent Land 2019 para los primeros tres lugares y equipos destacados.
+El equipo de Talent Network se suma a los aliados de GuanaHacks 2019, apoyando con entradas a Talent Land 2019 para los primeros tres lugares.
 
 [Talent Network](http://talent-network.org/) desarrolla diversos eventos e iniciativas en todo el mundo que cumplen con esta misión.
 
