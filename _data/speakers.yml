@@ -88,6 +88,7 @@
   social:
     - {name: "site", link: "https://www.linkedin.com/in/marcel-stockli-contreras-99759539/"}
     - {name: "twitter", link: "https://twitter.com/gamecoder_team?lang=es"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marcel-stockli-contreras-99759539/"}
  -
   id: 8
   name: "Hugo"
