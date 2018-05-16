@@ -3,16 +3,18 @@
   elements:
     - {name: "IBM", description: "For more than a century IBM has been dedicated to every client's success and to creating innovations that matter for the world", link: "https://www.ibm.com/us-en/", imageUrl: "ibm.png", width: "145px"}
     - {name: "Software Guru", description: "SG Software Guru is the leading media for software professionals in Latin America", link: "https://sg.com.mx/", imageUrl: "SG.png", width: "110px"}
+    - {name: "UBSA", description: "UBSA - Urbanizadora del Bajío: empresa mexicana que ha estado en la industria de la construcción desde 1971", link: "http://www.ubsa.com/", imageUrl: "UBSA.jpeg", width: "150px"}
+    - {name: "Don Chambitas", description: "Reclutador independiente de perfiles TI", link: "https://twitter.com/DonChambitas", imageUrl: "don_chambitas.png", width: "80px"}
+    - {name: "Talent Network", description: "Talent Network busca y detecta el Talento, lo acompaña y vincula con quien lo necesita", link: "http://talent-network.org/", imageUrl: "talent.png", width: "400px"}
     - {name: "CrowdForge", description: "CrowdForge is a place to find awesome open source projects to join and collaborate", link: "https://crowdforge.io/", imageUrl: "CrowdForge.png", width: "120px"}
     - {name: "GameCoder Studios", description: "GameCoder Studios - Video Games, VR & Solutions", link: "http://www.attractio-game.com/", imageUrl: "gamecoder.png", width: "180px"}
     - {name: "SIPP Consourcing", description: "SIPP Consourcing - Servicios integrales para PyMES", link: "https://www.facebook.com/SIPPCon/", imageUrl: "sipp.jpg", width: "160px"}
     - {name: "The 3D monkey", description: "The 3D monkey - 3D Printing made easy", link: "https://www.facebook.com/the3dmonkey/", imageUrl: "3dmonkey.png", width: "75px"}
-    - {name: "Don Chambitas", description: "Reclutador independiente de perfiles TI", link: "https://twitter.com/DonChambitas", imageUrl: "don_chambitas.png", width: "80px"}
 -
   group: "Agradecimientos"
   elements:
     - {name: "Juventud Guanajuato Capital", description: "Juventud Guanajuato Capital", link: "https://www.facebook.com/juventud.guanajuato.capital/", imageUrl: "juventud.png", width: "110px"}
-    - {name: "Music Quotes", description: "Juventud Guanajuato Capital", link: "https://www.facebook.com/juventud.guanajuato.capital/", imageUrl: "musicquotes.png", width: "140px"}
+    - {name: "Music Quotes", description: "Music Quotes", link: "https://www.facebook.com/SomosMusicQuotes/", imageUrl: "musicquotes.png", width: "140px"}
     - {name: "Iconmunity", description: "Iconmunity", link: "https://opencollective.com/iconmunity", imageUrl: "Iconmunity.jpg", width: "90px"}
     - {name: "Temachtiani", description: "Temachtiani", link: "https://twitter.com/temachtianiMx", imageUrl: "Temachtiani.jpg", width: "80px"}
     - {name: "Tomato Valley", description: "Tomato Valley", link: "http://tomatovalley.net/", imageUrl: "tomato_black.png", width: "110px"}

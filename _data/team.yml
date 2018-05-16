@@ -217,7 +217,7 @@
   social:
     - {name: "facebook", link: "https://www.facebook.com/Iconmunity/"}
 -
-  id: 20
+  id: 22
   name: "Fernando"
   surname: "Gallardo"
   title: "CoFounder TomatoValley"
@@ -225,3 +225,21 @@
   mentor: true
   social:
     - {name: "facebook", link: "https://www.facebook.com/Iconmunity/"}
+-
+  id: 23
+  name: "Michel"
+  surname: "Corona"
+  title: "CoFounder Women.inData;"
+  thumbnailUrl: MichelCorona.jpg
+  mentor: true
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/WomeninDataMX/"}
+-
+  id: 24
+  name: "Armando"
+  surname: "Are"
+  title: "CoFounder Stickers GAME"
+  thumbnailUrl: ArmandoAre.jpg
+  mentor: true
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/StickersGAME/"}
