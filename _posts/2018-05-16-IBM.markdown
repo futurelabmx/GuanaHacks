@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Tecnología IBM en GuanaHacks"
+date:   2018-05-16 20:00:00
+image:  teatro.png
+permalink: /ibm/
+isStaticPost: false
+---
+
+<img src="../img/posts/postibm.png" width="100%">
+
+#### ¡IBM se suma a GuanaHacks!
+
+Gracias a la suma de esfuerzos por crear un excelente ambiente de desarrollo de proyectos en GuanaHacks, ¡IBM se suma al evento!
+
+Entre las sorpresas que IBM y GuanaHacks han preparado para todos los participantes, se encuentra el uso de herramientas IBM Bluemix, mentorías en línea por parte de miembros expertos de IBM México y una súper conferencia por parte del Dr. Mauricio García, Technical Expert de IBM México.
+
+Más aún, si tienes dudas sobre el uso de herramientas de IBM, nos han compartido acceso gratuito a un curso sobre el uso de las mismas, ¡con posibilidad de certificación con validez curricular!
+<br><br>
+
+##### ¿Qué es IBM Bluemix?
+
+IBM Cloud permite resolver problemas reales y aumentar el valor de negocio con aplicaciones, infraestructura y servicios. Si deseas conocer más sobre IBM Bluemix, checa el siguiente enlace: [https://www.ibm.com/cloud-computing/bluemix/es/what-is-bluemix](https://www.ibm.com/cloud-computing/bluemix/es/what-is-bluemix). Si tienes interés sobre el curso gratuito sobre uso de Bluemix, te lo compartimos en el siguiente enlace: [https://developer.ibm.com/courses/all/bluemix-essentials/](https://developer.ibm.com/courses/all/bluemix-essentials/)
+<br><br>
+
+##### 5 in 5: 5 innovaciones que cambiarán nuestras vidas en 5 años
+
+¿Te has preguntado cuáles son las 5 innovaciones que cambiarán nuestras vidas en los próximos 5 años? Entérate de cuáles son de acuerdo al equipo de IBM Research a través de esta conferencia impartida por el Dr. Mauricio García.
+
+**Sobre el Dr. Mauricio García...** Cuenta con más de 15 años de experiencia en la industria de TI, en posiciones de desarrollo de software, arquitectura empresarial y estrategia. Actualmente trabaja en IBM promoviendo la adopción de tecnologías emergentes entre emprendedores, universidades y desarrolladores en general. Su principal interés de investigación es el impacto de la tecnología en la sociedad.

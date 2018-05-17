@@ -147,19 +147,21 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://www.ugto.mx/", text: "Universidad de Guanajuato"}
-   - {link: "http://www.facebook.com/f.lab.mx", text: "Future Lab"}
-   - {link: "https://www.facebook.com/f.lab.mx", text: "Kaizen UG"}
+   - {link: "https://www.facebook.com/GuanaHacks/", text: "GuanaHacks"}
+   - {link: "http://www.facebook.com/f.lab.mx/", text: "Future Lab"}
+   - {link: "https://www.facebook.com/KaizenUG/", text: "Kaizen UG"}
  -
   title: "Contacto"
   links:
+   - {link: "mailto:guanahacks@gmail.com", text: "GuanaHacks"}
    - {link: "mailto:r.mirontorres@ugto.mx", text: "Future Lab"}
    - {link: "mailto:kaizen.ugto@gmail.com", text: "Kaizen UG"}
  -
   title: "FAQ"
   links:
-   - {link: "https://futurelabmx.github.io/GuanaHacks/programa/", text: "Programa del evento"}
-   - {link: "https://futurelabmx.github.io/GuanaHacks/conducta/", text: "Código de Conducta"}
-   - {link: "https://futurelabmx.github.io/GuanaHacks/recomendaciones/", text: "Consideraciones y recomendaciones"}
+   - {link: "https://guanahacks.com/programa/", text: "Programa del evento"}
+   - {link: "https://guanahacks.com/conducta/", text: "Código de Conducta"}
+   - {link: "https://guanahacks.com/recomendaciones/", text: "Consideraciones y recomendaciones"}
 
 # Blog
 blogTitle: "Últimas noticias"
