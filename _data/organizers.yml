@@ -1,9 +1,11 @@
 -
   group: "Organizadores"
   elements:
-    - {name: "Dirección de Desarrollo Estudiantil", description: "Dirección de Desarrollo Estudiantil - Universidad de Guanajuato", link: "https://www.facebook.com/desarrolloestudiantilUGTO/", imageUrl: "desarrolloestudiantil.png", width: "430px"}
+    - {name: "Dirección de Desarrollo Estudiantil", description: "Dirección de Desarrollo Estudiantil - Universidad de Guanajuato", link: "https://www.facebook.com/desarrolloestudiantilUGTO/", imageUrl: "desarrolloestudiantil.png", width: "155px"}
     - {name: "Future Lab", description: "Future Lab - laboratorio de innovación tecnológica", link: "https://www.facebook.com/f.lab.mx", imageUrl: "futurelab.png", width: "280px"}
     - {name: "Kaizen UG", description: "Kaizen UG - hoy mejor que ayer, mañana mejor que hoy", link: "https://www.facebook.com/KaizenUG/", imageUrl: "kaizen.png", width: "70px"}
+    - {name: "Campus Guanajuato", description: "Campus Guanajuato - Universidad de Guanato", link: "https://www.facebook.com/CampusGTOUG/", imageUrl: "creativity.png", width: "140px"}
+    - {name: "Campus Guanajuato", description: "Campus Guanajuato - Universidad de Guanato", link: "https://www.facebook.com/CampusGTOUG/", imageUrl: "campus.png", width: "430px"}
 -
   group: "Aliados"
   elements:

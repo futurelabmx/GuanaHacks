@@ -9,6 +9,7 @@
     - {name: "CrowdForge", description: "CrowdForge is a place to find awesome open source projects to join and collaborate", link: "https://crowdforge.io/", imageUrl: "CrowdForge.png", width: "120px"}
     - {name: "GameCoder Studios", description: "GameCoder Studios - Video Games, VR & Solutions", link: "http://www.attractio-game.com/", imageUrl: "gamecoder.png", width: "180px"}
     - {name: "SIPP Consourcing", description: "SIPP Consourcing - Servicios integrales para PyMES", link: "https://www.facebook.com/SIPPCon/", imageUrl: "sipp.jpg", width: "160px"}
+    - {name: "ArrMo", description: "ArrMo Impresión 3D", link: "https://www.facebook.com/ArrMoImpresion3D/", imageUrl: "arrmo.png", width: "125px"}
     - {name: "The 3D monkey", description: "The 3D monkey - 3D Printing made easy", link: "https://www.facebook.com/the3dmonkey/", imageUrl: "3dmonkey.png", width: "75px"}
 -
   group: "Agradecimientos"
