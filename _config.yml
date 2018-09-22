@@ -49,10 +49,10 @@ navigationLinks:
  - {permalink: "/team/", text: "Equipo"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
-  - {permalink: "/registro", text: "Regístrate"}
+  - {permalink: "/resumen", text: "Resumen"}
 
 rightNavigationButtons:
-  - {permalink: "/registro", text: "Regístrate"}
+  - {permalink: "/resumen", text: "Resumen"}
 
 
 # Hero Block
@@ -62,7 +62,7 @@ eventDate: "18-20 Mayo, 2018"
 typeoutTextValues: '"", "creadores.", "hackers.", "líderes.", "ti."'
 typeoutFallback: ""
 heroButtons:
- - {permalink: "/registro", text: "Regístrate"}
+ - {permalink: "/resumen", text: "Resumen"}
 
 
 # About Block
