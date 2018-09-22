@@ -48,7 +48,7 @@ __Actividades__
 <br>
 
 ##### Demografía
-<img src="../img/posts/demografia.PNG" width="100%">
+<img src="../img/posts/demografia.png" width="100%">
 *Lugar de procedencia de los asistentes al evento, por ubicación geográfica según su registro.*
 
 __Total de entidades o municipios__ (13)      | &nbsp; | &nbsp; | &nbsp; | &nbsp; | __Total de universidades participantes__ (10)
@@ -69,7 +69,7 @@ __Total de entidades o municipios__ (13)      | &nbsp; | &nbsp; | &nbsp; | &nbsp
 
 ##### Comunidades y mentores
 __Total de organizaciones invitadas__ (20)
-<img src="../img/posts/invitados.PNG" width="100%">
+<img src="../img/posts/invitados.png" width="100%">
 
 __Mentores__ (25)
 - Técnicos: 10
