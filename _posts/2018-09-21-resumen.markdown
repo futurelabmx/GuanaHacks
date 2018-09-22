@@ -1,0 +1,101 @@
+---
+layout: post
+title:  "Resumen"
+date:   2018-09-21 08:00:00
+image:  teatro.png
+permalink: /resumen/
+isStaticPost: false
+---
+
+<img src="../img/posts/postresumen.png" width="100%">
+
+#### ¡Resumen de GuanaHacks 2018!
+
+¡Gracias a todo los que participaron en este gran evento 😀!
+
+GuanaHacks es una plataforma para el desarrollo de soluciones innovadoras a problemáticas reales; teniendo mentorías, talleres y conferencias con expertos en el tema. Creando así el primer hackathon de la Universidad de Guanajuato.
+<br><br>
+
+##### Sobre los organizadores
+
+__Future Lab__ 🚀 - Laboratorio de innovación tecnológica dedicado al desarrollo de proyectos de
+base científica, así como divulgación. [Sitio web](https://www.facebook.com/f.lab.mx/).
+
+__Kaizen__ 🐝 - Organización que promueve, difunde e implementa la agenda 2030 para el Desarrollo Sostenible de la ONU y sus 17 Objetivos. [Sitio web](https://www.facebook.com/KaizenUG/).
+
+__Universidad de Guanajuato__  🏫 - A través de la dirección de Desarrollo Estudiantil, Campus Guanajuato y el ecosistema VIDA UG. [Sitio web](http://www.ugto.mx/).
+
+<br>
+
+##### Asistentes
+
+__Total de asistentes__ (349)
+- Participantes: 234
+- Visitantes: 88
+- Staff: 27
+
+__Perfil de los participantes__
+- 189 hombres 👨‍💻 y 133 mujeres 👩‍💻
+- 16 años a 31 años (promedio 22.35 años)
+- Experto en área 🔬 (103), Desarrollador/ Maker 💻 (74), Negocios 💰 (42), Diseño 🎨 (15)
+
+__Actividades__
+- Horas continuas de trabajo: 55
+- Talleres: 5
+- Conferencias: 7
+- Equipos formados: 44
+
+<br>
+
+##### Demografía
+<img src="../img/posts/demografia.PNG" width="100%">
+*Lugar de procedencia de los asistentes al evento, por ubicación geográfica según su registro.*
+
+__Total de entidades o municipios__ (13)      | &nbsp; | &nbsp; | &nbsp; | &nbsp; | __Total de universidades participantes__ (10)
+- Salamanca: 117                              | &nbsp; | &nbsp; | &nbsp; | &nbsp; | - Universidad de Guanajuato: 201
+- León: 112                                   | &nbsp; | &nbsp; | &nbsp; | &nbsp; | - Instituto Tecnológico de Celaya: 9
+- Guanajuato: 64                              | &nbsp; | &nbsp; | &nbsp; | &nbsp; | - Universidad Politécnica de juventino rosas: 6
+- Irapuato: 11                                | &nbsp; | &nbsp; | &nbsp; | &nbsp; | - Instituto Politécnico Nacional: 5
+- Celaya: 7                                   | &nbsp; | &nbsp; | &nbsp; | &nbsp; | - Instituto Tecnológico de León: 4
+- Querétaro: 2                                | &nbsp; | &nbsp; | &nbsp; | &nbsp; | - Universidad de Celaya: 4
+- Ciudad de México: 2                         | &nbsp; | &nbsp; | &nbsp; | &nbsp; | - Universidad Juárez Autónoma de Tabasco: 2
+- Guadalajara: 2                              | &nbsp; | &nbsp; | &nbsp; | &nbsp; | - Instituto Tecnológico de Monterrey: 1
+- Juventino Rosas: 1                          | &nbsp; | &nbsp; | &nbsp; | &nbsp; | - Instituto Tecnológico Superior de Guanajuato (ITESG): 1
+- Silao: 1                                    | &nbsp; | &nbsp; | &nbsp; | &nbsp; | - Universidad Pedagógica Nacional (Campus Zamora): 1
+- Morelos: 1                                  | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+- Otros: 1                                    | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+
+<br>
+
+##### Comunidades y mentores
+__Total de organizaciones invitadas__ (20)
+<img src="../img/posts/invitados.PNG" width="100%">
+
+__Mentores__ (25)
+- Técnicos: 10
+- Negocios/ Marketing: 8
+- Diseño: 3
+- Otro: 4
+
+<br>
+
+##### Kit de supervivencia
+
+| __Comida__ 🌮                                                 |&nbsp;&nbsp;| __Camping__ ⛺️                                    |&nbsp;&nbsp;| __SWAG__ 🎁 |
+| - 1620 paquetes de alimentos servidos                      |&nbsp;&nbsp;| - 350 m2 de zona camping                        |&nbsp;&nbsp;| - 350 termos      |
+| - 2100 litros de bebidas (agua natural, agua fresca, café) |&nbsp;&nbsp;| - 130 casas de campaña (50 triples y 80 dobles) |&nbsp;&nbsp;| - 360 playeras   |
+| - 44 horas continuas de servicio de bebidas                |&nbsp;&nbsp;| - 1 casa de atención a participantes            |&nbsp;&nbsp;| - 1100 stickers   |
+| - 400 snacks                                               |&nbsp;&nbsp;| - 44 horas continuas de servicio de regaderas   |&nbsp;&nbsp;|                   |
+| - 25 mesas instaladas en zona de alimentos                 |&nbsp;&nbsp;| - 0 accidentes                                  |&nbsp;&nbsp;|                   |
+| - 1 estación de servicio de alimentos                      |&nbsp;&nbsp;| - 0 reportes atendidos                          |&nbsp;&nbsp;|                   |
+| - 2 estaciones de bebidas                                  |&nbsp;&nbsp;|                                                 |&nbsp;&nbsp;|                   |
+| - 1300 impactos publicitarios en la zona de comida         |&nbsp;&nbsp;|                                                 |&nbsp;&nbsp;|                   |
+| - 0 accidentes                                             |&nbsp;&nbsp;|                                                 |&nbsp;&nbsp;|                   |
+| - 7 reportes atendidos                                     |&nbsp;&nbsp;|                                                 |&nbsp;&nbsp;|                   |
+
+<br>
+
+##### Proyectos desarrolladores
+
+Checa nuesto post sobre los proyectos ganadores y lo finalistas 🏆
+[da click aquí](http://guanahacks.com/ganadores/).
