@@ -19,7 +19,7 @@ GuanaHacks es una plataforma para el desarrollo de soluciones innovadoras a prob
 ##### Sobre los organizadores
 
 __Future Lab__ 🚀 - Laboratorio de innovación tecnológica dedicado al desarrollo de proyectos de
-base científica, así como divulgación. [Sitio web](https://www.facebook.com/f.lab.mx/).
+base científica, así como divulgación. [Sitio web](https://futurelab.mx/).
 
 __Kaizen__ 🐝 - Organización que promueve, difunde e implementa la agenda 2030 para el Desarrollo Sostenible de la ONU y sus 17 Objetivos. [Sitio web](https://www.facebook.com/KaizenUG/).
 
@@ -36,7 +36,7 @@ __Total de asistentes__ (349)
 
 __Perfil de los participantes__
 - 189 hombres 👨‍💻 y 133 mujeres 👩‍💻
-- 16 años a 31 años (promedio 22.35 años)
+- 16 años a 31 años (edad promedio 22 años)
 - Experto en área 🔬 (103), Desarrollador/ Maker 💻 (74), Negocios 💰 (42), Diseño 🎨 (15)
 
 __Actividades__
@@ -97,5 +97,5 @@ __Mentores__ (25)
 
 ##### Proyectos desarrolladores
 
-Checa nuesto post sobre los proyectos ganadores y lo finalistas 🏆
+Checa nuesto post sobre los proyectos ganadores y los finalistas 🏆
 [da click aquí](http://guanahacks.com/ganadores/).
